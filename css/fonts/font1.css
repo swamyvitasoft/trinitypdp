@@ -1,0 +1,125 @@
+	@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+	@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800italic,800,700italic,700,600italic,600,400italic,300italic,300);
+
+/******************************************
+	FONTS
+******************************************/
+
+	.forum-title blockquote,
+	.ContentWrapperB .ContentB .Content p,
+	body{
+	    font-family: 'Open Sans', sans-serif;
+	    letter-spacing: 0 !important
+	}
+	.onecolportfolio .portfolio-desc small,
+	.page-header .lead,
+	.shop-list small,
+	.customtagline,
+	.tp-caption.slider_text_03,
+	.creativetext,
+	.categorymeta a,
+  	.slider_text_03,
+  	.invisible-buttons small,
+	.testi-lead h3 span,
+	.testi-lead p,
+	.page-header.notfound h2,
+	.team-member small,
+	 .plan .price h4,
+	 .searchtitle p,
+	.pie-value,
+	.skills small,
+	.home-message p,
+	.shopcats a,
+  	.tp-caption.slider_text_22,
+  	.slider_text_22,
+	.portfolio-detail h3 a,
+	.nostyle li,
+	.actionboxes p,
+	.visible-buttons small,
+	.box a,
+	.blog-meta span a,
+	.statwrap small,
+	.home-text p,
+	.home-stats p,
+	.demo-title p,
+	.general-title p {
+		font-family: 'Droid Serif', serif;
+		letter-spacing: 0 !important
+	}
+  	.tp-caption.slider_text_11,
+  	.slider_text_11,
+	.new-price,
+	.old-price,
+	.tp-caption.slider_text_10,
+  	.slider_text_10,
+  	.tp-caption.slider_text_05,
+  	.slider_text_05,
+  	.tp-caption.slider_text_04,
+  	.slider_text_04,
+  	.tp-caption.slider_text_01,
+  	.slider_text_01,
+	.tp-caption.slider_text_21,
+  	.slider_text_21,
+	.btn,
+	#accordion-first .accordion-heading .accordion-toggle,
+	.accordion-filterable .accordion-heading .accordion-toggle,
+	.skills p,
+	.stat-count,
+	h1, h2, h3, h4, h5, h6,
+	.cartdropdown strong,
+	.cartdropdown .btn,
+	.milestone-details,
+	.plan ul li,
+	.instalink,
+	.readmore,
+	.portfolio-filter li a,
+	.cartdropdown h4,
+	.copyrights p,
+	.copyrights li,
+	.login-form label,
+	.overlay ul li a,
+	p.dropcaps:first-letter,
+	.header .form-control,
+	.forum-meta li,
+	.topbar strong,
+	.yamm-content p,
+	.tooltip-inner,
+	.shop-filter li a,
+	.home-message .skills small,
+	.searchlist .readmore,
+	.orderbody,
+	.orderbody span,
+	.forumtop .dropdown-menu > li > a,
+	.footertop .footer-social li,
+	.thumbsup,
+	.shopcart .table > thead > tr > th,
+	.shoptab .nav-tabs > li > a,
+	.thumbsdown,
+	.size-options li a,
+	.couponarea .form-control,
+	.linkpost small a,
+	.timeline > li.time-label > span,
+	.tabs-left > .nav-tabs > li, .tabs-right > .nav-tabs > li,
+	ul.nav-wizard li a,
+	.ReadMore .btn,
+	.checkout-tab label,
+	.shoptop .form-control,
+	.timezone a,
+	.navbar-default .yamm-fw li a,
+	.blog-share .footer-social,
+	.navbar-default .dropdown-menu > li > a,
+	.navbar-nav > li > a {
+		letter-spacing: 0 !important;
+	    font-family: 'Roboto', sans-serif !important;
+	}
+	.shop_text_02,
+	.tp-caption.shop_text_02,
+	.general-title h5,
+	.tp.caption.slider_text_02,
+	.slider_text_02 {
+		font-family: "againtsregular" !important;
+	}
+	.tp.caption.slider_text_09,
+	.slider_text_09 {
+		font-family: "badhead_typefaceregular";
+	}

@@ -1,0 +1,449 @@
+/******************************************
+	BUTTONS
+******************************************/
+
+	.btn1 {
+		background-color: #f39705 !important;
+		border-color: #f39705 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #db8a0a !important;
+		-moz-box-shadow: 0px 3px 0px 0px #db8a0a !important;
+		box-shadow: 0px 3px 0px 0px #db8a0a !important;
+	}
+	.btn1:focus,
+	.btn1:hover {
+		background-color: #db8a0a !important;
+		border-color: #db8a0a !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #f39705 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #f39705 !important;
+		box-shadow: 0px 3px 0px 0px #f39705!important; 
+	}
+	.btn1.btnnob:hover,
+	.btn1.btnnob:focus,
+	.btn1.btnnob {
+		background-color: #ffffff !important;
+		color:#f39705 !important;
+		border:2px solid #f39705 !important;
+	}
+	.btn2 {
+		background-color: #f37d6b !important;
+		border-color: #f37d6b !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #e57260 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #e57260 !important;
+		box-shadow: 0px 3px 0px 0px #e57260 !important;
+	}
+	.btn2:focus,
+	.btn2:hover {
+		background-color: #e57260 !important;
+		border-color: #e57260 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #f37d6b !important;
+		-moz-box-shadow: 0px 3px 0px 0px #f37d6b !important;
+		box-shadow: 0px 3px 0px 0px #f37d6b!important; 
+	}
+	.btn2.btnnob:hover,
+	.btn2.btnnob:focus,
+	.btn2.btnnob {
+		background-color: #ffffff !important;
+		color:#f37d6b !important;
+		border:2px solid #f37d6b !important;
+	}
+	.btn3 {
+		background-color: #40548e !important;
+		border-color: #40548e !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #34477d !important;
+		-moz-box-shadow: 0px 3px 0px 0px #34477d !important;
+		box-shadow: 0px 3px 0px 0px #34477d !important;
+	}
+	.btn3:focus,
+	.btn3:hover {
+		background-color: #34477d !important;
+		border-color: #34477d !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #40548e !important;
+		-moz-box-shadow: 0px 3px 0px 0px #40548e !important;
+		box-shadow: 0px 3px 0px 0px #40548e!important; 
+	}
+	.btn3.btnnob:hover,
+	.btn3.btnnob:focus,
+	.btn3.btnnob {
+		background-color: #ffffff !important;
+		color:#34477d !important;
+		border:2px solid #34477d !important;
+	}
+	.btn4 {
+		background-color: #97c200 !important;
+		border-color: #97c200 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #8cb207 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #8cb207 !important;
+		box-shadow: 0px 3px 0px 0px #8cb207 !important;
+	}
+	.btn4:focus,
+	.btn4:hover {
+		background-color: #8cb207 !important;
+		border-color: #8cb207 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #97c200 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #97c200 !important;
+		box-shadow: 0px 3px 0px 0px #97c200!important; 
+	}
+	.btn4.btnnob:hover,
+	.btn4.btnnob:focus,
+	.btn4.btnnob {
+		background-color: #ffffff !important;
+		color:#97c200 !important;
+		border:2px solid #97c200 !important;
+	}
+	.btn5 {
+		background-color: #62a783 !important;
+		border-color: #62a783 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #529673 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #529673 !important;
+		box-shadow: 0px 3px 0px 0px #529673 !important;
+	}
+	.btn5:focus,
+	.btn5:hover {
+		background-color: #529673 !important;
+		border-color: #529673 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #62a783 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #62a783 !important;
+		box-shadow: 0px 3px 0px 0px #62a783!important; 
+	}
+	.btn5.btnnob:hover,
+	.btn5.btnnob:focus,
+	.btn5.btnnob {
+		background-color: #ffffff !important;
+		color:#529673 !important;
+		border:2px solid #529673 !important;
+	}
+	.btn6 {
+		background-color: #f82f54 !important;
+		border-color: #f82f54 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #e02749 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #e02749 !important;
+		box-shadow: 0px 3px 0px 0px #e02749 !important;
+	}
+	.btn6:focus,
+	.btn6:hover {
+		background-color: #e02749 !important;
+		border-color: #e02749 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #f82f54 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #f82f54 !important;
+		box-shadow: 0px 3px 0px 0px #f82f54!important; 
+	}
+	.btn7 {
+		background-color: #1cc0be !important;
+		border-color: #1cc0be !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #19aeac !important;
+		-moz-box-shadow: 0px 3px 0px 0px #19aeac !important;
+		box-shadow: 0px 3px 0px 0px #19aeac !important;
+	}
+	.btn7:focus,
+	.btn7:hover {
+		background-color: #19aeac !important;
+		border-color: #19aeac !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #1cc0be !important;
+		-moz-box-shadow: 0px 3px 0px 0px #1cc0be !important;
+		box-shadow: 0px 3px 0px 0px #1cc0be!important; 
+	}
+	.btn8 {
+		background-color: #e25611 !important;
+		border-color: #e25611 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #cb4a0a !important;
+		-moz-box-shadow: 0px 3px 0px 0px #cb4a0a !important;
+		box-shadow: 0px 3px 0px 0px #cb4a0a !important;
+	}
+	.btn8:focus,
+	.btn8:hover {
+		background-color: #cb4a0a !important;
+		border-color: #cb4a0a !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #e25611 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #e25611 !important;
+		box-shadow: 0px 3px 0px 0px #e25611!important; 
+	}
+	.btn9 {
+		background-color: #007c8e !important;
+		border-color: #007c8e !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #025e6b !important;
+		-moz-box-shadow: 0px 3px 0px 0px #025e6b !important;
+		box-shadow: 0px 3px 0px 0px #025e6b !important;
+	}
+	.btn9:focus,
+	.btn9:hover {
+		background-color: #025e6b !important;
+		border-color: #025e6b !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #007c8e !important;
+		-moz-box-shadow: 0px 3px 0px 0px #007c8e !important;
+		box-shadow: 0px 3px 0px 0px #007c8e!important; 
+	}
+	.btn10 {
+		background-color: #21c2f8 !important;
+		border-color: #21c2f8 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #18a6d6 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #18a6d6 !important;
+		box-shadow: 0px 3px 0px 0px #18a6d6 !important;
+	}
+	.btn10:focus,
+	.btn10:hover {
+		background-color: #18a6d6 !important;
+		border-color: #18a6d6 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #21c2f8 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #21c2f8 !important;
+		box-shadow: 0px 3px 0px 0px #21c2f8!important; 
+	}
+	.btn11 {
+		background-color: #695b7a !important;
+		border-color: #695b7a !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #524660 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #524660 !important;
+		box-shadow: 0px 3px 0px 0px #524660 !important;
+	}
+	.btn11:focus,
+	.btn11:hover {
+		background-color: #524660 !important;
+		border-color: #524660 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #695b7a !important;
+		-moz-box-shadow: 0px 3px 0px 0px #695b7a !important;
+		box-shadow: 0px 3px 0px 0px #695b7a!important; 
+	}
+	.btn12 {
+		background-color: #2e313d !important;
+		border-color: #2e313d !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #191a21 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #191a21 !important;
+		box-shadow: 0px 3px 0px 0px #191a21 !important;
+	}
+	.btn12:focus,
+	.btn12:hover {
+		background-color: #191a21 !important;
+		border-color: #191a21 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #2e313d !important;
+		-moz-box-shadow: 0px 3px 0px 0px #2e313d !important;
+		box-shadow: 0px 3px 0px 0px #2e313d!important; 
+	}
+	.btn13 {
+		background-color: #87a6b0 !important;
+		border-color: #87a6b0 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #60828d !important;
+		-moz-box-shadow: 0px 3px 0px 0px #60828d !important;
+		box-shadow: 0px 3px 0px 0px #60828d !important;
+	}
+	.btn13:focus,
+	.btn13:hover {
+		background-color: #60828d !important;
+		border-color: #60828d !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #87a6b0 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #87a6b0 !important;
+		box-shadow: 0px 3px 0px 0px #87a6b0!important; 
+	}
+	.btn14 {
+		background-color: #fa973c !important;
+		border-color: #fa973c !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #e1842f !important;
+		-moz-box-shadow: 0px 3px 0px 0px #e1842f !important;
+		box-shadow: 0px 3px 0px 0px #e1842f !important;
+	}
+	.btn14:focus,
+	.btn14:hover {
+		background-color: #e1842f !important;
+		border-color: #e1842f !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #fa973c !important;
+		-moz-box-shadow: 0px 3px 0px 0px #fa973c !important;
+		box-shadow: 0px 3px 0px 0px #fa973c!important; 
+	}
+	.btn15 {
+		background-color: #24d78a !important;
+		border-color: #24d78a !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #16c177 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #16c177 !important;
+		box-shadow: 0px 3px 0px 0px #16c177 !important;
+	}
+	.btn15:focus,
+	.btn15:hover {
+		background-color: #16c177 !important;
+		border-color: #16c177 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #24d78a !important;
+		-moz-box-shadow: 0px 3px 0px 0px #24d78a !important;
+		box-shadow: 0px 3px 0px 0px #24d78a!important; 
+	}
+	.btn16 {
+		background-color: #9a2c4a !important;
+		border-color: #9a2c4a !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #7d243c !important;
+		-moz-box-shadow: 0px 3px 0px 0px #7d243c !important;
+		box-shadow: 0px 3px 0px 0px #7d243c !important;
+	}
+	.btn16:focus,
+	.btn16:hover {
+		background-color: #7d243c !important;
+		border-color: #7d243c !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #9a2c4a !important;
+		-moz-box-shadow: 0px 3px 0px 0px #9a2c4a !important;
+		box-shadow: 0px 3px 0px 0px #9a2c4a!important; 
+	}
+	.btn17 {
+		background-color: #f0ca3d !important;
+		border-color: #f0ca3d !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #d8b533 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #d8b533 !important;
+		box-shadow: 0px 3px 0px 0px #d8b533 !important;
+	}
+	.btn18 {
+		background-color: #626073 !important;
+		border-color: #626073 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #4f4e5d !important;
+		-moz-box-shadow: 0px 3px 0px 0px #4f4e5d !important;
+		box-shadow: 0px 3px 0px 0px #4f4e5d !important;
+	}
+	.btn18:focus,
+	.btn18:hover {
+		background-color: #4f4e5d !important;
+		border-color: #4f4e5d !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #626073 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #626073 !important;
+		box-shadow: 0px 3px 0px 0px #626073!important; 
+	}
+	.btn19 {
+		background-color: #b8b8b8 !important;
+		border-color: #b8b8b8 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #a4a3a3 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #a4a3a3 !important;
+		box-shadow: 0px 3px 0px 0px #a4a3a3 !important;
+	}
+	.btn19:focus,
+	.btn19:hover {
+		background-color: #a4a3a3 !important;
+		border-color: #a4a3a3 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #b8b8b8 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #b8b8b8 !important;
+		box-shadow: 0px 3px 0px 0px #b8b8b8!important; 
+	}
+	.btn20 {
+		background-color: #bbb83f !important;
+		border-color: #bbb83f !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #a3a034 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #a3a034 !important;
+		box-shadow: 0px 3px 0px 0px #a3a034 !important;
+	}
+	.btn20:focus,
+	.btn20:hover {
+		background-color: #a3a034 !important;
+		border-color: #a3a034 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #bbb83f !important;
+		-moz-box-shadow: 0px 3px 0px 0px #bbb83f !important;
+		box-shadow: 0px 3px 0px 0px #bbb83f!important; 
+	}
+	.btn21 {
+		background-color: #a9d300 !important;
+		border-color: #a9d300 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #93b703 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #93b703 !important;
+		box-shadow: 0px 3px 0px 0px #93b703 !important;
+	}
+	.btn21:focus,
+	.btn21:hover {
+		background-color: #93b703 !important;
+		border-color: #93b703 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #a9d300 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #a9d300 !important;
+		box-shadow: 0px 3px 0px 0px #a9d300 !important; 
+	}
+	.btn22 {
+		background-color: #00d7e9 !important;
+		border-color: #00d7e9 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #05c3d3 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #05c3d3 !important;
+		box-shadow: 0px 3px 0px 0px #05c3d3 !important;
+	}
+	.btn22:focus,
+	.btn22:hover {
+		background-color: #05c3d3 !important;
+		border-color: #05c3d3 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #00d7e9 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #00d7e9 !important;
+		box-shadow: 0px 3px 0px 0px #00d7e9 !important; 
+	}
+	.btn23 {
+		background-color: #40538e !important;
+		border-color: #40538e !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #334374 !important;
+		-moz-box-shadow: 0px 3px 0px 0px #334374 !important;
+		box-shadow: 0px 3px 0px 0px #334374 !important;
+	}
+	.btn23:focus,
+	.btn23:hover {
+		background-color: #334374 !important;
+		border-color: #334374 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #40538e !important;
+		-moz-box-shadow: 0px 3px 0px 0px #40538e !important;
+		box-shadow: 0px 3px 0px 0px #40538e !important; 
+	}
+	.btn.btn-with-icon {
+		padding-left: 50px !important;
+		padding-right: 50px !important;
+		width: 200px;
+		text-align: center;
+	}
+	.btn.btn-with-icon i {
+		padding:0 0 0 10px;
+	}
+	.btn.btn-with-icon i {
+		opacity: 1;
+		-moz-transition: all .3s ease-in-out;
+		-o-transition: all .3s ease-in-out;
+		-webkit-transition: all .3s ease-in-out;
+		transition: all .3s ease-in-out;
+	}
+	.btn.btn-with-icon:hover i {
+		opacity: 0;
+		font-size: 0;
+		padding:0 !important;
+	}
+	.btnnb {
+		-webkit-border-radius: 0px !important;
+		-moz-border-radius: 0px !important;
+		border-radius: 0px !important;
+	}
+	.btnb4 {
+		-webkit-border-radius: 4px !important;
+		-moz-border-radius: 4px !important;
+		border-radius: 4px !important;
+	}
+	.btnb8 {
+		-webkit-border-radius: 8px !important;
+		-moz-border-radius: 8px !important;
+		border-radius: 8px !important;
+	}
+	.btnb15 {
+		-webkit-border-radius: 15px !important;
+		-moz-border-radius: 15px !important;
+		border-radius: 15px !important;
+	}
+	.btnb32 {
+		-webkit-border-radius: 32px !important;
+		-moz-border-radius: 32px !important;
+		border-radius: 32px !important;
+	}
+	.btnns:hover,
+	.btnns:focus,
+	.btnns {
+		padding-left: 60px !important;
+		padding-right: 60px !important;
+		padding-bottom: 13px !important;
+		-webkit-box-shadow:none !important; 
+		-moz-box-shadow: none !important; 
+		box-shadow: none !important; 
+	}
+	.btn.borderdot:hover,
+	.btn.borderdot:focus,
+	.btn.borderdot {
+		border-style: dashed !important;
+	}
+	.btn-lg, 
+	.btn-group-lg > .btn {
+	    font-size: 18px !important;
+	    line-height: 1 !important;
+	    padding: 13px 65px !important;
+	}
+	.btn-xlg, 
+	.btn-group-xlg > .btn {
+	    font-size: 24px !important;
+	    line-height: 1 !important;
+	    padding: 25px 80px !important;
+	}

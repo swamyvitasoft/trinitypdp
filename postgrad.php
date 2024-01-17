@@ -1,0 +1,40 @@
+<?php include 'header.php'; ?>
+ <section class="section banner" style="background-image:url('upload/img1.png');" data-img-width="1920" data-img-height="522"  data-diff="100">
+            <div class="container">
+                <div class="page-header text-center">
+                    <h1></h1>
+                   
+                </div>
+            </div>
+        </section><br>
+<div class="container">
+    
+  
+       <style>
+            tr:nth-child(even) {background-color: #e6f7ff;}
+        </style>
+    
+    
+    <div class="row">
+        <h3  style="color: #EC2431;font-size:30px;font-weight: bold;font-family: Arial, Helvetica, sans-serif;">Post Graduate Programs: </h3><br>
+        <table class="table table-responsive">
+            <tr style="color:#000000;">
+                <th>S.No.</th>
+                <th>Name of the PG Programme</th>
+                <th>Duration</th>
+                <th>Year of Starting </th>
+                <th>Intake</th>
+                      </tr>
+                       <tr style="color:#000000;">
+                <td>1</td>
+                <td>Master in Business Administration </td>
+                <td>2 Years</td>
+                <td>2009 </td>
+                <td>120</td>
+                      </tr>
+                         </table>
+    </div>
+      
+  </div><br><br><br>
+
+<?php include 'footer.php';?>

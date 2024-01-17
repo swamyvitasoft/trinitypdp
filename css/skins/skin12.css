@@ -1,0 +1,457 @@
+/******************************************
+	THEME COLOR
+******************************************/
+
+	.demo_changer .form_holder {
+		border-top-color: #E54E53 !important;
+	}
+	.tooltip.top .tooltip-arrow,
+	.tooltip.top-left .tooltip-arrow,
+	.tooltip.top-right .tooltip-arrow {
+		border-top-color: #E54E53;
+	}
+	.tooltip.right .tooltip-arrow {
+		border-right-color: #E54E53;
+	}
+	#tab-style-left .nav-tabs > li.active > a, 
+	#tab-style-left .nav-tabs > li.active > a:hover, 
+	#tab-style-left .nav-tabs > li.active > a:focus,
+	ul.nav-wizard li.active:after,
+	.tooltip.left .tooltip-arrow {
+		border-left-color: #E54E53 !important;
+	}
+	.tooltip.bottom .tooltip-arrow,
+	.tooltip.bottom-left .tooltip-arrow,
+	.shoptab .nav-tabs > li.active > a, 
+	.shoptab .nav-tabs > li.active > a:hover, 
+	.shoptab .nav-tabs > li.active > a:focus,
+	.tooltip.bottom-right .tooltip-arrow {
+		border-bottom-color: #E54E53 !important;
+	}
+	.demo_changer .demo-icon,
+	.owl-controls .owl-dots .owl-dot.active span,
+	.footertop.lightversion .footer-social span:hover,
+	.footer.lightversion .contactdiv:hover span,
+	#custom-search-input .btn:hover,
+	#custom-search-input .btn:focus,
+	#custom-search-input .input-group-btn,
+	#custom-search-input .btn,
+	.customtab_style_two li.active .btn-primary,
+	.customtab_style_two .btn-primary:hover,
+	.customtab_style_one li.active .btn-primary,
+	.customtab_style_one .btn-primary:hover,
+	.actionboxes.greybg .btn,
+	.actionboxes.whitebg .btn,
+	.whitehover .visible-buttons span,
+	hr.circle1:before,
+	.sidebar .icon-square .box span,
+	.sizeoptions > li:hover,
+	.sizeoptions > li.selected,
+	.shop-title-bottom .cart-button a:hover,
+	.ui-slider-range,
+	.tags .btn:hover,
+	.tags .btn:focus,
+	.display a.active,
+	.btn-primary.btn-grey:hover,
+	.btn-primary.btn-grey:focus,
+	ul.nav-wizard li.active,
+	ul.nav-wizard li.active a,
+	ul.nav-wizard li.active a:active,
+	.emtrycart h4 i,
+	ul.nav-wizard li.active a:visited,
+	ul.nav-wizard li.active a:focus,
+	.forum-tab .btn:hover,
+	.forum-tab .btn.active,
+	.filterfull,
+	.forum-tab .btn:focus,
+	.pagination > li > a:hover,
+	.pagination > li > a.active,
+	.blog-share .footer-social a:hover span,
+	.pagination > li > span:hover
+	.owl-controls .owl-dots .owl-dot.active span,
+	.owl-controls .owl-dots .owl-dot:hover span,
+	.left-button,
+	.carousel-control:hover,
+	.header-onepage .navbar-default .navbar-nav li.active a, 
+	.header-onepage .navbar-default .navbar-nav li:hover a, 
+	.header-onepage .navbar-default .navbar-nav li:focus a, 
+	.accordion-style-2 .accordion-heading:hover .accordion-toggle,
+	.accordion-style-2 .accordion-heading:focus .accordion-toggle,
+	.social a:hover,
+	.accordion-filterable .accordion-heading .accordion-toggle:hover > em,
+	.accordion-filterable .accordion-heading .accordion-toggle.active em,
+	#accordion-first .accordion-heading .accordion-toggle:hover > em,
+	#accordion-first .accordion-heading .accordion-toggle.active em,
+	.green,
+	.bgtheme,
+	.tooltip-inner,
+	.parallax .box .hi-icon,
+	.customtab li:hover .service-style-hover,
+	.abutton:hover,
+	.customtab li.active .service-style-hover,
+	.plan.recommended .head,
+	.withbackground.icon-square span,
+	.withbg i,
+	body.leftside .navbar-toggle,
+	.lists-elements li:hover .service-style-hover,
+	.stats-fun .icon-container,
+	.footertop .footer-social li:hover span,
+	p.dropcaps:first-letter,
+	.categorymeta,
+	.team-member small,
+	.portfolio-filter li a.active,
+	.portfolio-filter li:hover a,
+	.pricing-style-2 .plan:hover .head, 
+	.icon-square .box:hover span,
+	.big-box,
+	.contactdiv:hover span,
+	.pricing-style-2 .plan:hover .btn,
+	.portfolio-filter li:hover,
+	.hover-services .box:hover,
+	.plan .price h4,
+	.box:hover .icon-container,
+	.section.themecolor,
+	.bluebg,
+	.services-list-style .box .alignleft,
+	.header-style-2 .searchdropdown span,
+	.cartdropdown .btn,
+	.btn-info {
+		color:#ffffff !important;
+		background-color: #E54E53 !important;
+		border-color:#E54E53 !important;
+	}
+	.social.backwhite a:hover i,
+	.social.backwhite a:hover,
+	ul.nav-wizard li.active span,
+	ul.nav-wizard li.active a span,
+	ul.nav-wizard li.active a:active span,
+	ul.nav-wizard li.active a:visited span,
+	ul.nav-wizard li.active a:focus span {
+		color:#E54E53 !important;	
+	}
+	.social.backwhite a:hover i,
+	.social.backwhite a:hover,
+	ul.nav-wizard li.active span,
+	ul.nav-wizard li.active a span,
+	ul.nav-wizard li.active a:active span,
+	ul.nav-wizard li.active a:visited span,
+	ul.nav-wizard li.active a:focus span,
+	.creative-title hr,
+	.darktext hr,
+	.contactwidgets .widget-title hr,
+	.owl-custom .owl-nav .owl-next:hover,
+	.owl-custom .owl-nav .owl-prev:hover,
+	.shop-widget-wrapper .widget-title hr,
+	.instalink a, 
+	.general-title hr  {
+		border-color:#E54E53 !important;
+	}
+	.afterbanner:after,
+	.customtab .nav > li.active:after,
+	.themecolor:after {
+		border-top-color:#E54E53 !important;
+	}
+	.filterfullwhite .portfolio-filter li.active a,
+	.twocolportfolio.descvisible .portfolio-item:hover .invisible-buttons,
+	.navbar-default .dropdown-menu  {
+		border-bottom-color: #E54E53;
+	}
+	.filterfullwhite .portfolio-filter li.active a,
+	.filterfullwhite .portfolio-filter li:hover a,
+	.check1 li:before,
+	.blog-share .footer-social a:hover,
+  	.tp-caption.slider_text_11 span,
+  	.popover-title,
+  	.portfolioprevnext h3 a:hover,
+  	.slider_text_11 span,
+  	.tp-caption.slider_text_02.bluecolor,
+  	.slider_text_02.bluecolor,
+  	.orderbody span,
+  	.home-stats h3,
+	.owl-custom .owl-nav .owl-next:hover,
+	.Content h2,
+	.owl-custom .owl-nav .owl-prev:hover,
+	.header-onepage .navbar-default .navbar-nav li.searchdropdown:hover a,
+	.header-onepage .navbar-default .navbar-nav li.cartdropdown:hover a,
+	.overlay ul li:hover a,
+	.overlay ul li.active a,
+  	.tp-caption.slider_text_05 span,
+  	.slider_text_05 span,
+  	.timeline .fa-circle,
+	.slider_text_01 span,
+	.forumtop .dropdown .btn,
+	.tp-caption.slider_text_01 span,
+	.shopcart .fa-check-circle,
+	.slider_text_04 span,
+	.tp-caption.slider_text_04 span,
+	.rating i,
+	.searchtitle span,
+	.color-widget ul li:hover a,
+	.general-title h2 span,
+	.mapdesc i,
+	.home-message i,
+	.box a,
+	a,
+	.blog-meta span i,
+	.new-price,
+	.cartcount,
+	.cartdropdown .fa-shopping-cart,
+	.navbar-nav > li:hover a,
+	.navbar-nav > li:focus a,
+	.footertop .footer-social li:hover a,
+	.icon-absolute span i,
+	.navbar-default .navbar-nav > li.active > a,
+	.bluecolor, 
+	.navbar-default .navbar-nav > li.active > a:hover, 
+	.navbar-default .navbar-nav > li.active > a:focus,
+	.topbar span i,
+	.yamm-content li a span,
+	.service-style-hover i,
+	.creative-title h2 span,
+	.shop-filter li a:hover,
+	.copyrights li a:hover,
+	.footer-links li:hover a,
+	.contact_form h3 span,
+	.shop-filter li a.active,
+	.shop-filter li:hover a,
+	.withborder .categorymeta a,
+	.statwrap .fa-3x,
+	.hover-services i,
+	.nostyle i,
+	.filterfullwhite .portfolio-filter li:hover a,
+	.filterfullwhite .portfolio-filter a:hover,
+	.filterfullwhite .portfolio-filter a.active,
+	.yamm-content p,
+	.accordion-filterable .accordion-heading .accordion-toggle > em,
+	#accordion-first .accordion-heading .accordion-toggle > em,
+	.testi-lead span,
+	.topbar strong {
+		color:#E54E53 !important;
+	}
+	.btn17:focus,
+	.btn17:hover,
+	.tags .btn:hover,
+	.tags .btn:focus,
+	.forum-tab .btn:hover,
+	.forum-tab .btn.active,
+	.forum-tab .btn:focus,
+	.pricing-tables .btn-primary:hover,
+	.pricing-tables .btn-primary:focus,
+	.pricing-tables .recommended .btn-primary,
+	.pricing-style-2 .plan:hover .btn,
+	.btn-primary {
+		color:#ffffff !important;
+		background-color: #E54E53 !important;
+		border-color:#E54E53 !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #d23a3f !important;
+		-moz-box-shadow: 0px 3px 0px 0px #d23a3f !important;
+		box-shadow: 0px 3px 0px 0px #d23a3f !important;
+	}
+	#accordion-first.accordion-style-2 .accordion-heading:hover .accordion-toggle,
+	#accordion-first.accordion-style-2 .accordion-heading:hover .accordion-toggle > em {
+		background-color: #E54E53 !important;
+		color:#ffffff !important;
+		border-color:#dc4449 !important;
+	}
+	.user-status.online {
+		background-color: #E54E53 !important;
+	}
+	hr.circlewhite:before {
+		color:#E54E53 !important;
+		background-color: #ffffff !important
+	}
+	.magnifier {
+		background-color: rgba(210,58,63,0.8);
+	}
+
+/******************************************
+	THEME COLOR HOVER
+******************************************/
+
+	.actionboxes.greybg .btn:hover,
+	.actionboxes.whitebg .btn:hover,
+	.navbar-default .navbar-nav .dropdown-menu li .btn,
+	.btn-info:hover,
+	.btn-info:focus {
+		background-color: #d23a3f !important;
+		border-color:#d23a3f !important;
+	}
+	.accordion-filterable .accordion-heading .accordion-toggle > em,
+	#accordion-first .accordion-heading .accordion-toggle > em,
+	.form-control:focus {
+		border-color:#d23a3f !important;
+	}
+	.navbar-default .dropdown-menu > li > a {
+		color:#999999 !important;
+		background-color: transparent !important; 
+	}
+	.navbar-default .yamm-fw li a {
+		color:#999999 !important;
+	}
+	.dropdown-menu li a:hover,
+	.yamm-fw ul li a:hover {
+		color:#E54E53 !important;
+	}
+
+/******************************************
+	IMPORTANT WHITE COLOR
+******************************************/
+	
+	.bluebg h3 span,
+	.bluebg .fa-3x,
+	.bluebg .stat-count,
+	.bluebg small,
+	.sizeoptions > li:hover a,
+	.sizeoptions > li.selected a,
+	.box span.green i,
+	.box span.blue i,
+	.box span.yellow i,
+	.testi-lead h3 span.whitetext,
+	.sidebar .icon-square .box span i,
+  	.shop_text_02,
+	.tp-caption.shop_text_02,
+	.bgtheme .customtagline,
+	.bgdarkblue .testi-lead h3 span,
+	.bgtheme .customtagline a, 
+	.bluebg .tagline-message h4,
+	.bluebg .tagline-message h4 a, 
+	.carousel-control:hover .fa,
+	.whitehover .visible-buttons span i,
+	.categorymeta a,
+	.withbackground.icon-square span i,
+	.blog-share .footer-social a:hover span i,
+	.pricing-style-2 .plan:hover .head h2, 
+	.hover-services .box:hover h3,
+	.hover-services .box:hover i,
+	.icon-square .box:hover span i,
+	.blog-list .visible-buttons span a,
+	.blog-list .visible-buttons span i,
+	.blog-list .visible-buttons span,
+	.customtab li.active .service-style-hover i,
+	.customtab li.active .service-style-hover h4,
+	.customtab li:hover .service-style-hover i,
+	.customtab li:hover .service-style-hover h4,
+	.footertop .footer-social li:hover span i,
+	.portfolio-filter li.active a,
+	.portfolio-filter li:hover a,
+	.lists-elements li:hover .service-style-hover h4,
+	.lists-elements li:hover .service-style-hover i,
+	.box:hover .icon-container i,
+	.navbar-default .navbar-nav .dropdown-menu li .btn,
+	.cartdropdown .dropdown-menu li .btn  {
+		color:#ffffff !important;
+	}
+
+/******************************************
+	GREEN
+******************************************/
+	
+	.greencolor {
+		color:#39c173;
+	}
+	.icon-container.greenbg,
+	.greenbg,
+	.box span.green,
+	.rounded-services i.green,
+	.skills-darkgreen .darkgreen {
+		background-color: #39c173 !important; 
+	}
+	.fa-3x.greencolor,
+	.skills-darkgreen i {
+		color: #39c173 !important;
+	}
+
+/******************************************
+	DARK BLUE
+******************************************/
+
+	.icon-container.darkbluebg,
+	.darkbluebg,
+	.box span.blue,
+	.bgdarkblue,
+	.rounded-services i.blue,
+	.section-blue,
+	.skills-darkblue .darkblue {
+		background-color: #1e93e1 !important;
+	}
+	.fa-3x.darkbluecolor,
+	.skills-darkblue i {
+		color: #1e93e1 !important;
+	}
+
+/******************************************
+	YELLOW
+******************************************/
+	
+	.yellowbg,
+	.icon-container.yellowbg,
+	.box span.yellow,
+	.rounded-services i.yellow,
+	.skills-yellow .yellow {
+		background-color: #ffd348 !important;
+	}
+	.fa-3x.yellowcolor,
+	.shop_text_02.yellowcolor,
+	.tp-caption.shop_text_02.yellowcolor,	
+	.slider_text_09.yellowcolor,
+	.tp-caption.slider_text_09.yellowcolor,
+	.general-title h5,
+  	.tp-caption.slider_text_02,
+  	.slider_text_02,
+	.skills-yellow i {
+		color: #ffd348 !important;
+	}
+	.btn-primary:focus,
+	.btn-primary:hover {
+		background-color: #ffd348 !important;
+		border-color:#ffd348 !important;
+		color:#ffffff !important;
+		-webkit-box-shadow: 0px 3px 0px 0px #f1d16c !important;
+		-moz-box-shadow: 0px 3px 0px 0px #f1d16c !important;
+		box-shadow: 0px 3px 0px 0px #f1d16c !important;
+	}
+
+/******************************************
+	DARK AND GREY
+******************************************/
+
+	.pricing-tables .btn-primary {
+		background-color: #aaaaaa;
+		border-color:#aaaaaa;
+		-webkit-box-shadow: 0px 3px 0px 0px #959393;
+		-moz-box-shadow: 0px 3px 0px 0px #959393;
+		box-shadow: 0px 3px 0px 0px #959393;
+	}
+	.twocolportfolio .visible-buttons span:hover i {
+		color:#222222 !important;
+	}
+	.bgdarkblue .owl-controls .owl-dots .owl-dot.active span {
+		background-color: #ffffff !important;
+		border-color:#ffffff !important;
+	}
+	p.dropcaps.greybg:first-letter {
+		background-color: #f7f7f7 !important;
+		color:#aaaaaa !important
+	}
+	.filterfullwhite .portfolio-filter a,
+	.filterfull .portfolio-filter a {
+		background-color: transparent !important;
+		border-color: transparent !important;
+		box-shadow: none !important;
+		border-radius: 0 !important;
+	}
+	.pricing-transparent.pricing-style-2 .plan:hover .head,
+	.pricing-transparent.pricing-style-2 .plan .price,
+	.pricing-transparent.pricing-style-2 .head, 
+	.pricing-transparent.pricing-style-2 .plan,
+	.filterfullwhite .portfolio-filter li a,
+	.filterfullwhite .portfolio-filter li,
+	.filterfullwhite .portfolio-filter li.active a,
+	.filterfullwhite .portfolio-filter li:hover a,
+	.filterfullwhite,
+	.parallax .rounded-services .box .hi-icon,
+	.header-onepage .navbar-default .navbar-nav li.searchdropdown:hover a,
+	.header-onepage .navbar-default .navbar-nav li.cartdropdown:hover a,
+	.big-box.nobg {
+		background-color: transparent !important;
+	}
