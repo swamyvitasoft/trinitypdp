@@ -102,35 +102,35 @@ $highlighted = $url[0][2];
     <div id="wrapper" style=" overflow: hidden;">
         <div class="header-style-2">
             <div class="container-fluid">
-                <div class="row">
-                    <div class="col-md-11 col-sm-11 nopad">
-                    <div id="navbar" class="navbar-collapse collapse" style="background-color:red;">
-                                        <ul class="nav navbar-nav" style="padding-left: 50px;">                                      
-                                            <li class="dropdown has-submenu">
-                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Committees <span class="fa fa-angle-down"></span></a>
-                                                <ul class="dropdown-menu">
-                                                    <li><a href="osg.php">Online Student Grievance </a></li>
-                                                    <li><a href="osg.php">College Disciplinary </a></li>
-                                                    <li><a href="anti.php">Anti-Ragging </a></li>
-                                                    <li><a href="gri.php">Grievance Redressal </a></li>
-                                                    <li><a href="women.php">Women Protection Cell</a></li>
-                                                    <li><a href="scst.php">SC & ST Welfare</a></li>
-                                                    <li><a href="Grievance Redressal.php">Ombudsperson Details</a></li>
-                                                    <li><a href="gove body.php">Governing Body</a></li>
-                                                    <li><a href="Grievance Redressal.php">MANDATORY DISCLOSURE</a></li>
-                                                    <li><a href="Grievance Redressal.php">Alumni</a></li>             
-                                                </ul>
-                                            </li>
-
-                                            <li class="dropdown has-submenu <?=($highlighted=='admission.php')?'active':'';?>">
-                                                <a href="admission.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Admissions<span class="fa fa-angle-down"></span></a>                                           
-                                            </li>
-                      
-                                         <li class="dropdown <?= ($highlighted == 'contact.php') ? 'active' : ''; ?>"><a href="contact.php">Contact</a></li> 
+                <div class="row" style="background-color: #07294d;">
+                    <div class="row">
+                        <div class="col-sm-8"></div>
+                        <div class="col-sm-4">
+                            <div id="navbar" class="navbar-collapse collapse">
+                                <ul class="nav navbar-nav">
+                                    <li class="dropdown has-submenu">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:white;font-size:15px;padding-top:0px">Committees</span> <span class="fa fa-angle-down"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="osg.php">Online Student Grievance </a></li>
+                                            <li><a href="osg.php">College Disciplinary </a></li>
+                                            <li><a href="anti.php">Anti-Ragging </a></li>
+                                            <li><a href="gri.php">Grievance Redressal </a></li>
+                                            <li><a href="women.php">Women Protection Cell</a></li>
+                                            <li><a href="scst.php">SC & ST Welfare</a></li>
+                                            <li><a href="Grievance Redressal.php">Ombudsperson Details</a></li>
+                                            <li><a href="gove body.php">Governing Body</a></li>
+                                            <li><a href="Grievance Redressal.php">MANDATORY DISCLOSURE</a></li>
+                                            <li><a href="Grievance Redressal.php">Alumni</a></li>
                                         </ul>
-                                    </div>
+                                    </li>
+                                    <li class="dropdown has-submenu <?= ($highlighted == 'admission.php') ? 'active' : ''; ?>">
+                                        <a href="admission.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:white;font-size:15px">Admissions</span><span class="fa fa-angle-down"></span></a>
+                                    </li>
+                                    <li class="dropdown <?= ($highlighted == 'contact.php') ? 'active' : ''; ?>"><a href="contact.php"><span style="color:white;font-size:15px">Contact</span></a></li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
-                    
                     <div class="col-md-12 col-sm-12 nopad">
                         <header class="header">
                             <nav class="yamm navbar navbar-default">
@@ -145,7 +145,7 @@ $highlighted = $url[0][2];
                                         <a class="" href="index.php"><img src="images/logo1.png" class=" main-Img" alt="" style="width:200px"></a>
                                     </div>
                                     <div id="navbar" class="navbar-collapse collapse">
-                                        <ul class="nav navbar-nav" style="padding-left: 50px;">
+                                        <ul class="nav navbar-nav" style="padding-left:50px;">
                                             <li class="dropdown has-submenu <?= ($highlighted == 'index.php') ? 'active' : ''; ?>">
                                                 <a href="index.php">Home</a>
                                             </li>
@@ -238,7 +238,6 @@ $highlighted = $url[0][2];
                                                 <li><a href="C5DVV.PHP">CRITERIA-5</a></li>
                                                 <li><a href="C6DVV.PHP">CRITERIA-6</a></li>
                                                 <li><a href="C7DVV.PHP">CRITERIA-7</a></li>
-
                                             </ul>
                                         </li>
                                         <!-- <li class="dropdown <?= ($highlighted == 'contact.php') ? 'active' : ''; ?>"><a href="contact.php">Contact</a></li> -->
@@ -249,14 +248,12 @@ $highlighted = $url[0][2];
                         </header><!-- end header -->
                     </div>
                     <div class="row">
-                    <div class="col-sm-6" style="background-color: #07294d;margin-top:-20px">
-                        <h4 class="text-center" style="color:white;font-weight:bold;font-family:calibri">EAMCET/ ICET/ ECET/ POLYCET CODE: TCEK</h4>
-                    </div>
-
-                    <div class="col-sm-6" style="background-color: #07294d;margin-top:-20px">
-                        <h4 class="text-center" style="color:white;font-weight:bold;font-family:calibri">For Admissions Contact : 8522954369, 7396903383</h4>
-                    </div>
-
+                        <div class="col-sm-6" style="background-color: #07294d;margin-top:-20px">
+                            <h4 class="text-center" style="color:white;font-weight:bold;font-family:calibri">EAMCET/ ICET/ ECET/ POLYCET CODE: TCEK</h4>
+                        </div>
+                        <div class="col-sm-6" style="background-color: #07294d;margin-top:-20px">
+                            <h4 class="text-center" style="color:white;font-weight:bold;font-family:calibri">For Admissions Contact : 8522954369, 7396903383</h4>
+                        </div>
                     </div>
                     <!-- <div class="col-md-12 col-sm-12" style="background-color: #07294d;margin-top:-20px">
                         <h4 class="text-center" style="color:white;font-weight:bold;font-family:calibri">EAMCET/ ICET/ ECET/ POLYCET CODE: TCEK</h4>

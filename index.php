@@ -41,17 +41,17 @@
 
     <div class="container">
         <header class="course-header">
-            <p style="color:#07294d;text-decoration: underline;"> COURSES WE OFFER</p>
+            <p style="color:#07294d;text-decoration: underline;text-align:center;font-size:35px;padding:15px"> COURSES WE OFFER</p>
         </header>
-        <div class="courses"style="background-color:rgb(209 232 243);">
-            <p class="text-center" style="color:#07294d;font-weight:bold;">B.Tech Graduation Courses</p>
+        <div class="courses"style="background-color: #07294d;">
+            <p class="text-center" style="color:white;font-weight:bold;padding-top:20px;font-size:25px">B.Tech Graduation Courses</p>
             <hr>
         </div>
         <div class="row g-0">
             <div class="col-sm-3">
                 <div class="panel panel-default" style="height:300px;box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;">
-                    <div class="panel-heading eee">
-                        <h4 class="ee" style="color:#07294d;font-size:19px;line-height: 1.6;text-align:center">Electrical & Electronics Engineering(EEE)</h4>
+                    <div class="panel-heading eee" style="background-color:rgb(209 232 243)">
+                        <h4 class="ee" style="color:#07294d;font-size:19px;line-height: 1.6;text-align:center;">Electrical & Electronics Engineering(EEE)</h4>
                     </div>
                     <div class="panel-body" style="color:#07294d;font-size:15px;line-height: 1.6;text-align: center;">
                         <p style="color:#07294d">Course Introduced In :2008</p>
@@ -62,7 +62,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="panel panel-default" style="height:300px;box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;">
-                    <div class="panel-heading">
+                    <div class="panel-heading" style="background-color:rgb(209 232 243)">
                         <h4 style="color:#07294d;font-size:19px;line-height: 1.6;text-align:center">Electrical &Communication Engineering(ECE)</h4>
                     </div>
                     <div class="panel-body"  style="color:#07294d;font-size:15px;line-height: 1.6;text-align: center;">
@@ -74,7 +74,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="panel panel-default" style="height:300px;box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;">
-                    <div class="panel-heading">
+                    <div class="panel-heading" style="background-color:rgb(209 232 243)">
                         <h4 style="color:#07294d;font-size:19px;line-height: 1.6;text-align: center">Computer Science & Engineering(CSE)</h4>
                     </div>
                     <div class="panel-body"  style="color:#07294d;font-size:15px;line-height: 1.6;text-align: center;">
@@ -86,7 +86,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="panel panel-default" style="height:300px;box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;">
-                    <div class="panel-heading">
+                    <div class="panel-heading" style="background-color:rgb(209 232 243)">
                         <h4 style="color:#07294d;font-size:19px;line-height: 1.6;text-align:center">Artificial Intelligence & Machine Learning(AIML)</h4>
                     </div>
                     <div class="panel-body"  style="color:#07294d;font-size:15px;line-height: 1.6;text-align: center;">
@@ -97,14 +97,14 @@
                 </div>
             </div>
         </div>
-        <div  class="pg" style="background-color:rgb(209 232 243);">
-            <p class="text-center" style="color:#07294d;font-weight:bold;font-size:25px;padding-top:10px">PG Programme</p>
+        <div  class="pg" style="background-color: #07294d;">
+            <p class="text-center" style="color:white;font-weight:bold;font-size:25px;padding-top:10px">PG Programme</p>
             <hr>
         </div>
         <div class="row g-0">
             <div class="col-sm-3">
                 <div class="panel panel-default" style="height:300px;box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;">
-                    <div class="panel-heading">
+                    <div class="panel-heading" style="background-color:rgb(209 232 243)">
                         <h4 style="color:#07294d;font-size:19px;line-height: 1.6;text-align: center">Masters in Business Administration</h4>
                     </div>
                     <div class="panel-body"  style="color:#07294d;font-size:15px;line-height: 1.6;text-align: center;">
@@ -116,14 +116,14 @@
             </div>
         </div>
        
-        <div class="newfont" style="background-color:rgb(209 232 243);">
-            <p class="text-center" style="color:#07294d;font-weight:bold;font-size:25px;padding-top:10px">Diploma Programme</p>
+        <div class="newfont" style="background-color: #07294d;">
+            <p class="text-center" style="color:white;font-weight:bold;font-size:25px;padding-top:10px">Diploma Programme</p>
             <hr>
         </div>
         <div class="row g-0">
             <div class="col-sm-3">
                 <div class="panel panel-default" style="height:300px;box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;">
-                    <div class="panel-heading">
+                    <div class="panel-heading" style="background-color:rgb(209 232 243)">
                         <h4 style="color:#07294d;font-size:19px;line-height: 1.6;text-align:center">Electrical & Electronics Engineering(EEE)</h4>
                     </div>
                     <div class="panel-body" style="color:#07294d;font-size:15px;line-height: 1.6;text-align:center;">
@@ -135,7 +135,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="panel panel-default" style="height:300px;box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;">
-                    <div class="panel-heading">
+                    <div class="panel-heading" style="background-color:rgb(209 232 243)">
                         <h4 style="color:#07294d;font-size:17px;line-height: 1.6;text-align:center">Electronics & Communication Engineering(ECE)</h4>
                     </div>
                     <div class="panel-body" style="color:#07294d;font-size:15px;line-height: 1.6;text-align:center;">
@@ -147,7 +147,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="panel panel-default" style="height:300px;box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;">
-                    <div class="panel-heading">
+                    <div class="panel-heading" style="background-color:rgb(209 232 243)">
                         <h4 style="color:#07294d;font-size:19px;line-height: 1.6;text-align:center">Computer Engineering(CSE)</h4>
                     </div>
                     <div class="panel-body" style="color:#07294d;font-size:15px;line-height: 1.6;text-align:center;">
