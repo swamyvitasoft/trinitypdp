@@ -13,7 +13,7 @@
                            
                         <div class="row" style="  margin-top: 65px; margin-bottom: 56px;">          
                         <div class="col-md-4">
-                            <img class="lib-img-show" src="images/trinity/tpo.jpg" style="width:90%;">
+                            <img class="lib-img-show" src="images/placement/tpo.jpeg" style="width:90%;">
                         </div>
                         
                      <div class="col-md-8" style="margin-top:50px;">
