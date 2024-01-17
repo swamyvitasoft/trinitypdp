@@ -104,11 +104,33 @@ $highlighted = $url[0][2];
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-11 col-sm-11 nopad">
-                        <marquee style="float: right; " onmouseover="this.stop();" onmouseout="this.start();">
-                            <h5 style="color: #07294d;"><b class="contact">For Admissions Contact : 8522954369, 7396903383</b></h5>
-                        </marquee>
+                    <div id="navbar" class="navbar-collapse collapse" style="background-color:red;">
+                                        <ul class="nav navbar-nav" style="padding-left: 50px;">                                      
+                                            <li class="dropdown has-submenu">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Committees <span class="fa fa-angle-down"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="osg.php">Online Student Grievance </a></li>
+                                                    <li><a href="osg.php">College Disciplinary </a></li>
+                                                    <li><a href="anti.php">Anti-Ragging </a></li>
+                                                    <li><a href="gri.php">Grievance Redressal </a></li>
+                                                    <li><a href="women.php">Women Protection Cell</a></li>
+                                                    <li><a href="scst.php">SC & ST Welfare</a></li>
+                                                    <li><a href="Grievance Redressal.php">Ombudsperson Details</a></li>
+                                                    <li><a href="gove body.php">Governing Body</a></li>
+                                                    <li><a href="Grievance Redressal.php">MANDATORY DISCLOSURE</a></li>
+                                                    <li><a href="Grievance Redressal.php">Alumni</a></li>             
+                                                </ul>
+                                            </li>
+
+                                            <li class="dropdown has-submenu <?=($highlighted=='admission.php')?'active':'';?>">
+                                                <a href="admission.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Admissions<span class="fa fa-angle-down"></span></a>                                           
+                                            </li>
+                      
+                                         <li class="dropdown <?= ($highlighted == 'contact.php') ? 'active' : ''; ?>"><a href="contact.php">Contact</a></li> 
+                                        </ul>
+                                    </div>
                     </div>
-                    <div class="col-md-1 col-sm-1 nopad"><a href="contact.php" style="background-color:#07294d;color: white;" class="btn btn-primary">Contact US</a></div>
+                    
                     <div class="col-md-12 col-sm-12 nopad">
                         <header class="header">
                             <nav class="yamm navbar navbar-default">
@@ -226,9 +248,19 @@ $highlighted = $url[0][2];
                             </nav>
                         </header><!-- end header -->
                     </div>
-                    <div class="col-md-12 col-sm-12" style="background-color: #07294d;margin-top:-20px">
+                    <div class="row">
+                    <div class="col-sm-6" style="background-color: #07294d;margin-top:-20px">
                         <h4 class="text-center" style="color:white;font-weight:bold;font-family:calibri">EAMCET/ ICET/ ECET/ POLYCET CODE: TCEK</h4>
                     </div>
+
+                    <div class="col-sm-6" style="background-color: #07294d;margin-top:-20px">
+                        <h4 class="text-center" style="color:white;font-weight:bold;font-family:calibri">For Admissions Contact : 8522954369, 7396903383</h4>
+                    </div>
+
+                    </div>
+                    <!-- <div class="col-md-12 col-sm-12" style="background-color: #07294d;margin-top:-20px">
+                        <h4 class="text-center" style="color:white;font-weight:bold;font-family:calibri">EAMCET/ ICET/ ECET/ POLYCET CODE: TCEK</h4>
+                    </div> -->
                     <!-- end col -->
                 </div><!-- end row -->
             </div><!-- end container -->
