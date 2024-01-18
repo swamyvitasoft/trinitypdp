@@ -12,7 +12,7 @@
             <tr style="color:#000000;font-family:calibri;font-size:18px">
                 <th>S.No.</th>
                 <th>Name of the Courses</th>
-                <th>Academic Year</th>
+                <th class="text-center">Academic Year</th>
                 <th class="text-center">Academic calender</th>
                       </tr>
                        <tr style="color:#000000;">
