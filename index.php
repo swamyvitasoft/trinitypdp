@@ -28,7 +28,7 @@
                     </p>
                 </div><!-- end box -->
                 <!--   <hr class="margintop30px">-->
-                <div class="box">
+                <div class="box" style="padding:5px;text-align:justify">
                     <i class="fa fa-rocket alignleft" style="background-color: #033148 !important "></i>
                     <h3>Our Mission</h3>
                     <p> Design and implement curriculum that equips students with professional and life skills.Recruit, develop and retain outstanding faculty to achieve academic excellence.• Promote and undertake quality research in thrust areas of science and Technology.Collaborate with industry and academia to meet the changing needs of society.Foster innovation and cultivate the spirit of entrepreneurship among students </p>

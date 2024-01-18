@@ -6,71 +6,72 @@
 	<div class="row1" >
 	     
   <div class="column1">
-    <img src="images/trinity/01.JPG" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-1.jpg" style="width:100% ;height:350px" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/02.JPG" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-2.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/03.JPG" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-6.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/04.JPG" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-4.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/05.JPG" style="width:100%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-5.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/06.JPG" style="width:100%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-10.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/07.JPG" style="width:100%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-7.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
   </div>
    <div class="column1">
-    <img src="images/trinity/08.JPG" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-8.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
   </div>
+ 
   
 </div>
 
-<div id="myModal" class="modal">
+<!-- <div id="myModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
 
     <div class="mySlides">
       <div class="numbertext">1 / 8</div>
-      <img src="images/trinity/01.JPG" style="width:100%">
+      <img src="images/gallery/IMG-1.jpg" style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">2 / 8</div>
-      <img src="images/trinity/02.JPG" style="width:100%">
+      <img src="images/gallery/IMG-2.jpg" style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">3 / 8</div>
-      <img src="images/trinity/03.JPG" style="width:100%">
+      <img src="images/gallery/IMG-3.jpg" style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">4 / 8</div>
-      <img src="images/trinity/04.JPG" style="width:100%">
+      <img src="images/gallery/IMG-4.jpg" style="width:100%">
     </div>
     
     <div class="mySlides">
       <div class="numbertext">5 / 8</div>
-      <img src="images/trinity/05.JPG" style="width:100%">
+      <img src="images/gallery/IMG-5.jpg" style="width:100%">
     </div>
     <div class="mySlides">
       <div class="numbertext">6 / 8</div>
-      <img src="images/trinity/06.JPG" style="width:100%">
+      <img src="images/gallery/IMG-6.jpg" style="width:100%">
     </div>
     <div class="mySlides">
       <div class="numbertext">7 / 8</div>
-      <img src="images/trinity/07.JPG" style="width:100%">
+      <img src="images/gallery/IMG-7.jpg" style="width:100%">
     </div>
     <div class="mySlides">
       <div class="numbertext">8 / 8</div>
-      <img src="images/trinity/08.JPG" style="width:100%">
+      <img src="images/gallery/IMG-8.jpg" style="width:100%">
     </div>
     
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -82,33 +83,35 @@
 
 
     <div class="column1" style="padding: 7px;">
-      <img class="demo cursor" src="images/trinity/01.JPG" style="width:100%" onclick="currentSlide(1)" >
+      <img class="demo cursor" src="images/gallery/IMG-1.jpg" style="width:100%" onclick="currentSlide(1)" >
     </div>
     <div class="column1" style="padding: 7px;">
-      <img class="demo cursor" src="images/trinity/02.JPG" style="width:100%" onclick="currentSlide(2)" >
+      <img class="demo cursor" src="images/gallery/IMG-2.jpg" style="width:100%" onclick="currentSlide(2)" >
     </div>
     <div class="column1" style="padding: 7px;">
-      <img class="demo cursor" src="images/trinity/03.JPG" style="width:100%" onclick="currentSlide(3)" >
+      <img class="demo cursor" src="images/gallery/IMG-3.jpg" style="width:100%" onclick="currentSlide(3)" >
     </div>
     <div class="column1" style="padding: 7px;">
-      <img class="demo cursor" src="images/trinity/04.JPG" style="width:100%" onclick="currentSlide(4)" >
+      <img class="demo cursor" src="images/gallery/IMG-4.jpg" style="width:100%" onclick="currentSlide(4)" >
     </div>
      <div class="column1" style="padding: 7px;">
-      <img class="demo cursor" src="images/trinity/05.JPG" style="width:100%" onclick="currentSlide(5)" >
+      <img class="demo cursor" src="images/gallery/IMG-5.jpg" style="width:100%" onclick="currentSlide(5)" >
     </div>
      <div class="column1" style="padding: 7px;">
-      <img class="demo cursor" src="images/trinity/06.JPG" style="width:100%" onclick="currentSlide(6)" >
+      <img class="demo cursor" src="images/gallery/IMG-6.jpg" style="width:100%" onclick="currentSlide(6)" >
     </div>
      <div class="column1" style="padding: 7px;">
-      <img class="demo cursor" src="images/trinity/07.JPG" style="width:100%" onclick="currentSlide(7)" >
+      <img class="demo cursor" src="images/gallery/IMG-7.jpg" style="width:100%" onclick="currentSlide(7)" >
   </div>
    <div class="column1" style="padding: 7px;">
-      <img class="demo cursor" src="images/trinity/08.JPG" style="width:100%" onclick="currentSlide(8)" >
+      <img class="demo cursor" src="images/gallery/IMG-8.jpg" style="width:100%" onclick="currentSlide(8)" >
   </div>
  
  
+</div> 
 </div>
-</div><br><br>
+-->
+<br><br>
  <script>
 function openModal() {
   document.getElementById('myModal').style.display = "block";
