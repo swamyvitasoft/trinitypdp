@@ -1,19 +1,15 @@
 <?php include 'header.php'; ?>
 
-<section class="section banner transparent-header" style="background-image:url('upload/chairman.jpg');/* height: 278px; */padding: 30px;" data-img-width="1920" data-img-height="600" data-diff="100">
-            <div class="container">
-                <div class="page-header text-center">
-                    <h1>TPO</h1>
-                    <p class="lead"></p>
-                </div>
-            </div>
-        </section>
+<div class="row">
+    <div class="eee" style="background-image: url('images/placement/bgpic.png'); background-size:cover; height:200px;">
+    </div>
+</div>
 
                        <div class="container">
                            
-                        <div class="row" style="  margin-top: 65px; margin-bottom: 56px;">          
+                        <div class="row" style="  margin-top: 50px; margin-bottom: 60px;">          
                         <div class="col-md-4">
-                            <img class="lib-img-show" src="images/trinity/tpo.jpg" style="width:90%;">
+                            <img class="lib-img-show" src="images/placement/tpo.jpeg" style="width:80%;" height="300px">
                         </div>
                         
                      <div class="col-md-8" style="margin-top:50px;">

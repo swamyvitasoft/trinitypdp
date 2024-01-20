@@ -30,7 +30,6 @@
     <img src="images/gallery/IMG-8.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
   </div>
   
-  
 </div>
 
 <!-- <div id="myModal" class="modal">

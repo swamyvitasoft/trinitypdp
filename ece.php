@@ -1,25 +1,10 @@
 <?php include 'header.php'; ?>
-<div class="carousel fade-carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel">
-  <!-- Overlay -->
-  <!-- Indicators -->
-   <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item slides active">
-      <div class="slide-1">
-          <div class="overlay"></div>
-      </div>
-      <div class="hero">
-        <hgroup>
-            <h2>ECE</h2>        
-           
-        </hgroup>
-        
-      </div>
-    </div>
-     </div> 
+<div class="row">
+  <div class="eee" style="background-image: url('images/ECE/ECE_Banner.jpg'); background-size:cover; height:350px; ">
+  </div>
 </div>
          
-<div class="container" style="box-shadow:-3px 5px 15px #000">
+<div class="container-fluid" style="box-shadow:-3px 5px 15px #000">
   <ul class="nav nav-tabs" role="tablist" width="90%" style="background-color: #f7f7f7;">
     <li class="nav-item" style="color: rgb(0, 0, 255);">
       <a class="nav-link active" data-toggle="tab" href="#home" ><b style="font-size:16px;color:rgb(120, 120, 120)">About Department</b></a>
@@ -48,20 +33,21 @@
    <div class="tab-content">
     <div id="home" class=" tab-pane active" style="color:#082b2a;">
     <div class="col-md-12">          
-
+    <h3 style="color: #003366;background-color:whitesmoke;padding:5px; text-align:center;" >About Department</h3><br>
       <div class="col-md-4">
-                            <img class="lib-img-show" src="images/mel-1.jpg" style="width: 90%;box-shadow:-3px 5px 15px #000;">
+                            <img class="lib-img-show" src="images/ECE/ece-about.jpg" style=" width: 100%;height:260px;">
         </div>
         <div class="col-md-8" >
-<h2 style="color: #003366;" >About Department</h2><br>
-      <p style="text-indent: 50px;" align:"justify">The department of Electronics & Communication Engineering started right from the inception of the college in the year 2008. The primary objective of the department has been to impart quality education, training and research at the undergraduate in various areas of Electronics and Communication Engineering with broad emphasis on design aspects of electronic systems. The Department presently offers UG Programme B.Tech with an intake of 60. </p>
+
+      <p style="text-indent: 50px; color:#212F3D;text-align:justify; ">The department of Electronics & Communication Engineering started right from the inception of the college in the year 2008. The primary objective of the department has been to impart quality education, training and research at the undergraduate in various areas of Electronics and Communication Engineering with broad emphasis on design aspects of electronic systems. The Department presently offers UG Programme B.Tech with an intake of 60. </p>
+      <div class="col-md-12" >
+          <h3  style="color: #003366;background-color:whitesmoke;text-align:center;">Vision</h3>
+       <p  style="text-indent: 45px;color:#212F3D;text-align:justify;" >"To be recognized globally for high calibre engineers in electronics and communication, capable of adapting to the changing needs of industry and society." </p>
+     </div><br><br>
      </div><br>
       
-         </div>
-         <div class="col-md-12" >
-          <h1  style="color: #003366;">Vision</h1>
-       <p  style="text-indent: 45px;" align:"justify">"To be recognized globally for high calibre engineers in electronics and communication, capable of adapting to the changing needs of industry and society." </p>
-     </div><br><br>
+         </div><br>
+         
      
   </div>
             
