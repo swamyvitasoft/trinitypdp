@@ -31,9 +31,7 @@
     <div class="tab-content">
     <div id="home" class="container tab-pane fade">
             <h2 style="color: #003366;">Placement Cell</h2><br>
-            <p>
-            Images to add here
-             </P>
+            <img src="images/placement/cellimage.jpeg" alt="hello">
         </div>
         <div id="menu1" class="container tab-pane fade" style="color:#082b2a;">
             <h2 style="color: #003366;">SKILL</h2>
