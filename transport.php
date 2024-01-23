@@ -8,11 +8,11 @@
   <div class="carousel-inner">
     <div class="item slides active">
       <div class="slide-1">
-          <div class="overlay"></div>
+          <div class="overlay"><img src="images/about/buses.jpg" alt="" class="img-responsive" style="width:100%;height:800px"></div>
       </div>
       <div class="hero">
         <hgroup>
-            <h2 >Transport</h2>    
+            <h2 ></h2>    
         </hgroup>
         
       </div>
@@ -20,14 +20,14 @@
      </div> 
 </div>
 
-<div class="container">
-<h2 class="text-center" >Transport</h2><br>
+<div class="container" style="margin-top:250px">
+<h2 class="text-center" style="text-decoration: underline">Transport</h2><br>
 <div class="col-md-12">
     <div class="col-md-6">
-        <img src="images/buses.jpg" style="width:80%" class="img-responsive">
+        <img src="images/about/buses.jpg" style="width:80%" class="img-responsive">
     </div>
     <div class="col-md-6">
-        <p align="justify" style="color:#000">The College has their own six buses for students’ transportation. These buses cover all the important stops of Peddapalli city. </p>
+        <p align="justify" style="color:#000">The Trinity College has their own six buses for students’ transportation. These buses cover all the important stops of Peddapalli city. </p>
     </div>
 </div>
 </div>

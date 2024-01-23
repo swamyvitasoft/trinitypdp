@@ -8,7 +8,7 @@
   <div class="carousel-inner">
     <div class="item slides active">
       <div class="slide-1">
-          <div class="overlay"></div>
+          <div class="overlay"><img src="images/hostel.jpg" alt="" class="img-responsive" style="width:100%;height:420px"></div>
       </div>
       <div class="hero">
             <hgroup>
@@ -21,11 +21,11 @@
 <section>
 <div class="container">
 <h2 class="text-center">Hostel</h2><br>
-    <p align="justify" style="font-size: 16px;color:#777; ">Separate hostel facilities are provided for Girls in the college campus. It has adequate high security and good discipline. The students who are not staying with the parents shall reside in the college hostel as per college rules.</p>
+    <p align="justify" style="font-size: 18px;color:#777; ">Separate hostel facilities are provided for Girls in the college campus. It has adequate high security and good discipline. The students who are not staying with the parents shall reside in the college hostel as per college rules.</p>
 <div class="col-md-12">
-          <div class="col-md-4"><img src="images/SECURITY.jpg" class="rounded-circle img-responsive" alt="hostel" style="border-radius: 50%!important;"></div>
-          <div class="col-md-4"><img src="images/food.jpg" class="rounded-circle img-responsive" alt="hostel" style="border-radius: 50%!important;"></div>
-          <div class="col-md-4"><img src="images/books.jpg" class="rounded-circle img-responsive" alt="hostel" style="border-radius: 50%!important;"></div>
+          <div class="col-md-4"><img src="images/hostel.jpg" class="rounded-circle img-responsive" alt="hostel" style="border-radius: 50%!important;"></div>
+          <div class="col-md-4"><img src="images/hostel.jpg" class="rounded-circle img-responsive" alt="hostel" style="border-radius: 50%!important;"></div>
+          <div class="col-md-4"><img src="images/hostel.jpg" class="rounded-circle img-responsive" alt="hostel" style="border-radius: 50%!important;"></div>
       </div>
 </div><br><br>
 
