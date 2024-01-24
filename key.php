@@ -7,12 +7,10 @@
    <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item slides active">
-      <div class="slide-1">
-          <div class="overlay"><img src="images/laptop1.avif" alt="" class="img-responsive" style="width:100%;height:420px"></div>
-      </div>
-      <div class="slide-1">
-          <div class="overlay"><img src="images/lab.webp" alt="" class="img-responsive" style="width:100%;height:420px"></div>
-      </div>
+      
+          <img src="images/lab1.jpg" alt="" class="img-responsive" style="width:100%;height:500px">
+      
+      
       
      
       <div class="hero">
@@ -26,7 +24,7 @@
      </div> 
 </div>
 
-<div class="container">
+<div class="container" style="margin-top:100px">
 <h2 style=" font-size: 26px;"  >Key-facilities :</h2></h2><br>
     <p align="justify" style="font-size: 16px;color:#777;">Desktops from various Brands like Acer, Dell, HCL with latest Processor capacity.</p>
     <p align="justify" style="font-size: 16px;color:#777;">CCTV Surveillance at each laboratories and key-areas to ensure safety. </p>
@@ -37,7 +35,7 @@
 
     <div class="col-md-12" style="margin-top:30px">
           <div class="col-md-4"><img src="images/lab.webp" class="rounded-circle img-responsive" alt="hostel" style="height:200px"></div>
-          <div class="col-md-4"><img src="images/E-learning2.jpg" class="rounded-circle img-responsive" alt="hostel" style="height:200px;"></div>
+          <div class="col-md-4"><img src="images/lab2.jpg" class="rounded-circle img-responsive" alt="hostel" style="height:200px;"></div>
           <div class="col-md-4"><img src="images/laptop1.avif" class="rounded-circle img-responsive" alt="hostel" style="height:200px"></div>
       </div>
 </div><br><br>

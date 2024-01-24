@@ -1,15 +1,15 @@
 <?php include 'header.php'; ?>
 
         
-        <div class="carousel fade-carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel">
+        <div class="carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel">
   <!-- Overlay -->
   <!-- Indicators -->
    <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item slides active">
-      <div class="slide-1">
-          <div class="overlay"><img src="images/gallery/IMG-8.jpg" alt="" class="img-responsive" style="width:100%;height:800px"></div>
-      </div>
+      
+          <img src="images/gallery/IMG-8.jpg" alt="" class="img-responsive" style="width:100%;height:800px">
+      
       <div class="hero">
             <hgroup>
             <h2 class="text-center" ></h2> 
@@ -19,7 +19,7 @@
      </div> 
 </div>
 <section>
-<div class="container" style="margin-top:250px">
+<div class="container" style="margin-top:50px">
 <h2 class="text-center">Cultural Activities</h2><br>
     <p align="justify" style="font-size: 18px;color:#777; ">Cultural activities encompass a range of artistic, social, and educational pursuits that celebrate and promote cultural heritage, fostering a sense of identity and community.</p>
 <div class="col-md-12" style="margin-top:30px">

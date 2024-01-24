@@ -6,10 +6,8 @@
   <!-- Indicators -->
    <!-- Wrapper for slides -->
   <div class="carousel-inner">
-    <div class="item slides active">
-      
+    <div class="item slides active">     
           <img src="images/E-learning.jpg" alt="" class="img-responsive" style="width:100%;height:420px">
-      
       <div class="hero">
             <hgroup>
             <h2 class="text-center" ></h2> 
