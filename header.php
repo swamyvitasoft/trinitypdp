@@ -123,6 +123,7 @@ $highlighted = $url[0][2];
                                     <!-- <li class="dropdown has-submenu <?= ($highlighted == 'admission.php') ? 'active' : ''; ?>">
                                         <a href="admission.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:#07294d;font-size:15px">Admissions</span><span class="fa fa-angle-down"></span></a>
                                     </li> -->
+                                    <li class="dropdown <?= ($highlighted == 'gallery.php') ? 'active' : ''; ?>"><a href="gallery.php"><span style="color:#07294d;font-size:15px">Gallery</span></a></li>
                                     
                                      <li class="dropdown has-submenu <?= ($highlighted == 'library.php' || $highlighted == 'hostel.php' || $highlighted == 'transport.php' || $highlighted == 'wifi.php' || $highlighted == 'key.php' || $highlighted == 'gallery.php') ? 'active' : ''; ?>">
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ><span style="color:#07294d;font-size:15px;">Facilities</span> <span class="fa fa-angle-down"></span></a>
@@ -135,10 +136,11 @@ $highlighted = $url[0][2];
                                                 <li><a href="e-learn.php">E-learning and Internet</a></li>
                                                 <li><a href="sports.php">Sports </a></li>
                                                 <li><a href="cultural.php">Cultural</a></li>
-                                                <li><a href="gallery.php">Gallery </a></li>
+                                                <!-- <li><a href="gallery.php">Gallery </a></li> -->
                                             </ul>
                                         </li> 
                                         <li class="dropdown <?= ($highlighted == 'contact.php') ? 'active' : ''; ?>"><a href="contact.php"><span style="color:#07294d;font-size:15px">Contact</span></a></li>
+                                        
                                 </ul>
                             </div>
                         </div>
