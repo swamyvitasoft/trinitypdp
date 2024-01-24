@@ -101,8 +101,8 @@ $highlighted = $url[0][2];
     <!-- START SITE -->
     <div id="wrapper" style=" overflow: hidden;">
         <div class="row " style="background-color:beige;padding-top:-15px;padding-bottom:-10px">
-                        <div class="col-sm-9"></div>
-                        <div class="col-sm-3">
+                        <div class="col-sm-6"></div>
+                        <div class="col-sm-6">
                             <div id="navbar" class="navbar-collapse collapse">
                                 <ul class="nav navbar-nav">
                                     <!-- <li class="dropdown has-submenu">
@@ -123,6 +123,15 @@ $highlighted = $url[0][2];
                                     <!-- <li class="dropdown has-submenu <?= ($highlighted == 'admission.php') ? 'active' : ''; ?>">
                                         <a href="admission.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:#07294d;font-size:15px">Admissions</span><span class="fa fa-angle-down"></span></a>
                                     </li> -->
+                                    <li class="dropdown has-submenu">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:#07294d;font-size:15px">Examinations</span> <span class="fa fa-angle-down"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="notice.php">Notice Board</a></li>
+                                                    <li><a href="timetable.php">Time Table</a></li>
+                                                    <li><a href="results.php">Results</a></li>
+                                                </ul>
+                                            </li>
+                                    <li class="dropdown <?= ($highlighted == 'admission.php') ? 'active' : ''; ?>"><a href="admission.php"><span style="color:#07294d;font-size:15px">Admissions</span></a></li>
                                     <li class="dropdown <?= ($highlighted == 'gallery.php') ? 'active' : ''; ?>"><a href="gallery.php"><span style="color:#07294d;font-size:15px">Gallery</span></a></li>
                                     
                                      <li class="dropdown has-submenu <?= ($highlighted == 'library.php' || $highlighted == 'hostel.php' || $highlighted == 'transport.php' || $highlighted == 'wifi.php' || $highlighted == 'key.php' || $highlighted == 'gallery.php') ? 'active' : ''; ?>">
@@ -202,11 +211,11 @@ $highlighted = $url[0][2];
                                                 <li><a href="ece.php">ECE</a></li>
                                                 <li><a href="cse.php">CSE</a></li>
                                                 <li><a href="aiml.php">AIML</a></li>
-                                                <!-- <li><a href="hs.php">H & S</a></li> -->
+                                                <li><a href="hs.php">H & S</a></li>
                                                 <li><a href="mba.php">MBA</a></li>
-                                                <li><a href="#">Diploma in EEE</a></li>
-                                                <li><a href="#">Diploma in ECE</a></li>
-                                                <li><a href="#">Diploma in CSE</a></li>
+                                                <li><a href="deee.php">Diploma in EEE</a></li>
+                                                <li><a href="dece.php">Diploma in ECE</a></li>
+                                                <li><a href="dcse.php">Diploma in CSE</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown has-submenu <?= ($highlighted == 'selected.php' || $highlighted == 'tpo.php') ? 'active' : ''; ?>">
