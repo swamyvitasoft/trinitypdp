@@ -141,7 +141,7 @@
             <div class="col-sm-3">
                 <div class="panel panel-default" style="height:300px;box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;">
                     <div class="panel-heading" style="background-color:rgb(209 232 243);">
-                        <h4 style="color:#07294d;font-size:19px;line-height: 1.6;text-align:center">Computer Engineering(DCSE)</h4>
+                        <h4 style="color:#07294d;font-size:19px;line-height: 1.6;text-align:center">Computer Science Engineering(DCSE)</h4>
                     </div>
                     <div class="panel-body" style="color:#07294d;font-size:15px;line-height: 1.6;text-align:center;">
                         <p style="color:#07294d">Course Introduced In :2023</p>
