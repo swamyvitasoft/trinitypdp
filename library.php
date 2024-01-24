@@ -4,7 +4,7 @@
  <section class="section banner" style="background-image:url('upload/library.jpg');" data-img-width="1920" data-img-height="522"  data-diff="100">
             <div class="container">
                 <div class="page-header text-center">
-                    <h1></h1>
+                    <h1>Library</h1>
                    
                 </div>
             </div>

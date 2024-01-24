@@ -6,33 +6,33 @@
 	<div class="row1" >
 	     
   <div class="column1">
-    <img src="images/trinity/01.JPG" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-1.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/02.JPG" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-2.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/03.JPG" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-10.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/04.JPG" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-4.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/05.JPG" style="width:100%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-5.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/06.JPG" style="width:100%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-6.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
   </div>
   <div class="column1">
-    <img src="images/trinity/07.JPG" style="width:100%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-7.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
   </div>
    <div class="column1">
-    <img src="images/trinity/08.JPG" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+    <img src="images/gallery/IMG-8.jpg" style="width:100%;height:350px" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
   </div>
   
 </div>
 
-<div id="myModal" class="modal">
+<!-- <div id="myModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
 
@@ -108,8 +108,8 @@
  
  
 </div>
-</div><br><br>
- <script>
+</div><br><br> -->
+ <!-- <script>
 function openModal() {
   document.getElementById('myModal').style.display = "block";
 }
@@ -146,6 +146,6 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
-</script>
+</script> -->
 		
 		<?php include 'footer.php';?>

@@ -2,29 +2,19 @@
 <link  rel="stylesheet" href="./css/custom.css">
 <script src="./js/customs.js"></script>
 
+<!-- 
+<div>
 
+          <div class="overlay" style="background-image: url('images/placement/bgimage.png'); background-size:cover;">
+               
 
-<div class="carousel fade-carousel slide new_pdf" data-ride="carousel" data-interval="4000" id="bs-carousel">
-  <!-- Overlay -->
-  <!-- Indicators -->
-   <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item slides active">
-      <div class="slide-1">
-          <div class="overlay"></div>
+          </div>
       </div>
-      <div class="hero">
-        <hgroup>
-            <h2>CRITERIA-I</h2>        
-           
-        </hgroup>
-        
-      </div>
-    </div>
-     </div> 
-</div>
-       
-<div class="container new_pdf" style="box-shadow:-3px 5px 15px #000;     padding: 47px 30px;">
+      </div> -->
+       <div align="center">
+         <img src="images/placement/bgimage.png" alt="">
+       </div>
+<div class="container new_pdf" >
   <!--<ul class="nav nav-tabs" role="tablist" width="90%" style="background-color: #f7f7f7;">-->
   <!--  <li class="nav-item" style="color: rgb(0, 0, 255);">-->
   <!--    <a class="nav-link active" data-toggle="tab" href="NAAC/4.1.1.pdf" ><b style="font-size:16px;color:rgb(120, 120, 120)">4.1.1.1</b></a>-->

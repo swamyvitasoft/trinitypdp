@@ -1,46 +1,31 @@
 <?php include 'header.php'; ?>
-<div class="carousel fade-carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel">
-  <!-- Overlay -->
-  <!-- Indicators -->
-   <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item slides active">
-      <div class="slide-1">
-          <div class="overlay"></div>
-      </div>
-      <div class="hero">
-        <hgroup>
-            <h2>EEE</h2>        
-           
-        </hgroup>
-        
-      </div>
-    </div>
-     </div> 
+<div class="row">
+  <div class="eee" style="background-image: url('images/EEE/eee.png'); background-size:cover; height:350px; ">
+  </div>
 </div>
          
-<div class="container" style="box-shadow:-3px 5px 15px #000">
+<div class="container-fluid" style="box-shadow:-3px 5px 15px #000">
   <ul class="nav nav-tabs navv" role="tablist"  style="background-color: #f7f7f7";>
     <li class="nav-item" style="color: rgb(0, 0, 255);">
-      <a class="nav-link active" data-toggle="tab" href="#home" ><b style="font-size:16px;color:rgb(120, 120, 120)">About Department</b></a>
+      <a class="nav-link active" data-toggle="tab" href="#home" ><b style="font-size:16px;color:rgb(80, 80, 80)">About Department</b></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu1" ><b style="font-size:16px;color:rgb(120, 120, 120)">Head of the Department</b></a>
+      <a class="nav-link" data-toggle="tab" href="#menu1" ><b style="font-size:16px;color:rgb(80, 80, 80)">Head of the Department</b></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu2"><b style="font-size:16px;color:rgb(120, 120, 120)">Faculty</b></a>
+      <a class="nav-link" data-toggle="tab" href="#menu2"><b style="font-size:16px;color:rgb(80, 80, 80)">Faculty</b></a>
     </li>
+     <!-- <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu3" ><b style="font-size:16px;color:rgb(80, 80, 80)">Infrastructure</b> </a>
+    </li> -->
      <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu3" ><b style="font-size:16px;color:rgb(120, 120, 120)">Infrastructure</b> </a>
+      <a class="nav-link" data-toggle="tab" href="#menu4" ><b style="font-size:16px;color:rgb(80, 80, 80)">Syllabus</b></a>
     </li>
+     <!-- <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu5" ><b style="font-size:16px;color:rgb(80, 80, 80)">Activities</b></a>
+    </li> -->
      <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu4" ><b style="font-size:16px;color:rgb(120, 120, 120)">Syllabus</b></a>
-    </li>
-     <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu5" ><b style="font-size:16px;color:rgb(120, 120, 120)">Activities</b></a>
-    </li>
-     <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu6" ><b style="font-size:16px;color:rgb(120, 120, 120)">Gallery </b> </a>
+      <a class="nav-link" data-toggle="tab" href="#menu6" ><b style="font-size:16px;color:rgb(80, 80, 80)">Gallery </b> </a>
     </li>
   </ul>
 
@@ -112,10 +97,17 @@
          
     <div id="menu1" class="container tab-pane fade" style="color:#082b2a;">
       <h2  style="color: #003366;" >Head of the Department</h2><hr>
-     <td><img src="images/faculty/1.jpeg" style="margin-left: 40%; height="120" width="100"/></td>
-      <p  style="text-indent: 50px;" align:"justify"><b>Dr. K.Natarajan </b>obtained his <b> B.E (Electrical and Electronics Engineering)</b> from<b> Sri Ramakrishna Institute of Technology</b>, Coimbatore and<b> M.E (Electrical Machines) </b>from <b>P.S.G college of Technology</b>, Coimbatore.
+      <div class="row">
+        <div class="col-sm-8 mt-4">
+        <p  style="text-indent: 50px;text-align: justify;" ><b>Dr. K.Natarajan </b>obtained his <b> B.E (Electrical and Electronics Engineering)</b> from<b> Sri Ramakrishna Institute of Technology</b>, Coimbatore and<b> M.E (Electrical Machines) </b>from <b>P.S.G college of Technology</b>, Coimbatore.
       He finished his MBA in the field of Educational Management. He also completed his <b>Ph.D </b>degree from Anna University, Chennai in the year of 2017.</p><br>
-       <p  style="text-indent: 50px;" align:"justify">He has over <strong>10 years </strong>of teaching experience at UG and PG level and guided a number of projects in Electrical Engineering and published / presented many articles in Journals and conferences. </p>
+       <p  style="text-indent: 50px;text-align: justify;">He has over <strong>14 years </strong>of teaching experience at UG and PG level and guided a number of projects in Electrical Engineering and published / presented many articles in Journals and conferences. </p>
+        </div>
+        <div class="col-sm-4">
+        <img src="images/EEE/hod-eee.jpeg"  height="280" width="100%" style="">
+        </div>
+      </div>
+      
     </div>
     
     
@@ -144,8 +136,8 @@
       <td>HOD-Associate Professor</td>
       <td>M.Tech Ph.D</td>
       <td>1184-180206-172014</td>
-      <td>10 Years</td>
-      <td><img src="images/faculty/1.jpeg" alt="description here" height="120" width="100"/></td>
+      <td>14 Years</td>
+      <td><img src="images/EEE/hod-eee.jpeg" alt="description here" height="80" width="80"/></td>
       
     </tr>
     <tr style="color:#082b2a;">
@@ -155,7 +147,7 @@
       <td>M.Tech</td>
       <td>75150405-174823</td>
       <td>10 Years</td>
-       <td><img src="images/faculty/2.JPG" alt="description here" height="120" width="100" /></td>
+       <td><img src="images/EEE/vamshikrishna.jpeg" alt="description here" height="80" width="80" /></td>
     </tr>
      <tr style="color:#082b2a;">
       <th scope="row">3</th>
@@ -164,7 +156,7 @@
       <td>M.Tech</td>
       <td>5286-150506-163956</td>
       <td>10 Years</td>
-      <td><img src="images/faculty/18.jpeg" alt="description here" height="120" width="100" /></td>
+      <td><img src="images/EEE/ashok.jpeg" alt="description here" height="80" width="80" /></td>
     </tr>
      <tr style="color:#082b2a;">
       <th scope="row">4</th>
@@ -173,44 +165,64 @@
       <td>M.Tech</td>
       <td>7734-150412-151225</td>
       <td>16 Years</td>
-      <td><img src="images/faculty/4.jpeg" alt="description here" height="120" width="100" /></td>
+      <td><img src="images/EEE/shivakumarM.jpeg" alt="description here" height="80" width="80" /></td>
     </tr>
-     <tr style="color:#082b2a;">
+    <tr style="color:#082b2a;">
       <th scope="row">5</th>
-      <td>SANTHOSH BANDI</td>
-      <td>Assistant Professor</td>
-      <td>M.Tech</td>
-      <td>4224-150416-153422</td>
-      <td>16 Years</td>
-       <td><img src="images/faculty/5.jpg" alt="description here" height="120" width="100" /></td>
-    </tr>
-     <tr style="color:#082b2a;">
-      <th scope="row">6</th>
       <td>ARPULA KRISHNAIAH</td>
       <td>Assistant Professor</td>
       <td>M.Tech</td>
-      <td>1777-150419-121002</td>
+      <td>1777-150419-12802</td>
       <td>9 Years</td>
-      <td><img src="images/faculty/21.jpeg" alt="description here" height="120" width="100" /></td>
+      <td><img src="images/EEE/krishnaiah.jpeg" alt="description here" height="80" width="80" /></td>
     </tr>
-     <tr style="color:#082b2a;">
+    <tr style="color:#082b2a;">
+      <th scope="row">6</th>
+      <td>VELPULA SWARUPA</td>
+      <td>Assistant Professor</td>
+      <td>M.Tech</td>
+      <td>8793-170126-091552</td>
+      <td>3 Years</td>
+     <td><img src="images/EEE/swarupa.jpeg" alt="description here" height="80" width="80" /></td>
+    </tr>
+    <tr style="color:#082b2a;">
       <th scope="row">7</th>
+      <td>CHUNDURI SUPRIYA</td>
+      <td>Assistant Professor</td>
+      <td>M.Tech</td>
+      <td>7565-180130-151342</td>
+      <td>11 Years</td>
+      <td><img src="images/EEE/supriya.jpeg" alt="description here" height="80" width="80" /></td>
+    </tr>
+    <tr style="color:#082b2a;">
+      <th scope="row">8</th>
       <td>KOPPULA SRINIVAS</td>
       <td>Assistant Professor</td>
       <td>M.Tech</td>
       <td>0016-170119-101553</td>
       <td>3 Years</td>
-     <td><img src="images/faculty/13.jpeg" alt="description here" height="120" width="100" /></td>
+     <td><img src="images/EEE/srinivasK.jpeg" alt="description here" height="80" width="80" /></td>
     
     </tr>
      <tr style="color:#082b2a;">
+      <th scope="row">9</th>
+      <td>SANTHOSH BANDI</td>
+      <td>Assistant Professor</td>
+      <td>M.Tech</td>
+      <td>4224-150416-153422</td>
+      <td>16 Years</td>
+       <td><img src="images/EEE/santhoshB.jpeg" alt="description here" height="80" width="80" /></td>
+    </tr>
+
+    
+     <!-- <tr style="color:#082b2a;">
       <th scope="row">8</th>
       <td>SATYANARAYANA KOKKULA</td>
       <td>Assistant Professor</td>
       <td>M.Tech</td>
       <td>5370-160301-163117</td>
       <td>3 Years</td>
-      <td><img src="images/faculty/9.jpg" alt="description here" height="120" width="100" /></td>
+      <td><img src="images/faculty/9.jpg" alt="description here" height="80" width="80" /></td>
     </tr>
      <tr style="color:#082b2a;">
       <th scope="row">9</th>
@@ -219,7 +231,7 @@
       <td>M.Tech</td>
       <td>6727-160306-012255</td>
       <td>2 Years</td>
-      <td><img src="images/faculty/10.jpg" alt="description here" height="120" width="100" /></td>
+      <td><img src="images/faculty/10.jpg" alt="description here" height="80" width="80" /></td>
     </tr>
      <tr style="color:#082b2a;">
       <th scope="row">10</th>
@@ -228,7 +240,7 @@
       <td>M.Tech</td>
       <td>4954-160311-110834</td>
       <td>7 Years</td>
-      <td><img src="images/faculty/11.jpeg" alt="description here" height="120" width="100" /></td>
+      <td><img src="images/faculty/11.jpeg" alt="description here" height="80" width="80" /></td>
     </tr>
      <tr style="color:#082b2a;">
       <th scope="row">11</th>
@@ -237,17 +249,9 @@
       <td>M.Tech</td>
       <td>7476-160311-121859</td>
       <td>4 Years</td>
-     <td><img src="images/faculty/12.jpg" alt="description here" height="120" width="100"/></td>
+     <td><img src="images/faculty/12.jpg" alt="description here" height="80" width="80"/></td>
     </tr>
-     <tr style="color:#082b2a;">
-      <th scope="row">12</th>
-      <td>VELPULA SWARUPA</td>
-      <td>Assistant Professor</td>
-      <td>M.Tech</td>
-      <td>8793-170126-091552</td>
-      <td>3 Years</td>
-     <td><img src="images/faculty/14.jpeg" alt="description here" height="120" width="100" /></td>
-    </tr>
+
      <tr style="color:#082b2a;">
       <th scope="row">13</th>
       <td>BANOTHU PUNNAM CHAND</td>
@@ -255,7 +259,7 @@
       <td>M.Tech</td>
       <td>8793-170126-091552</td>
        <td>4 Years</td>
-     <td><img src="images/faculty/15.jpeg" alt="description here" height="120" width="100" /></td>
+     <td><img src="images/faculty/15.jpeg" alt="description here" height="80" width="80" /></td>
     </tr>
      <tr style="color:#082b2a;">
       <th scope="row">14</th>
@@ -264,18 +268,10 @@
       <td>M.Tech</td>
       <td>2776-170126-105510</td>
       <td>3 Years</td>
-      <td><img src="images/faculty/16.jpeg" alt="description here" height="120" width="100" /></td>
+      <td><img src="images/faculty/16.jpeg" alt="description here" height="80" width="80" /></td>
    
     </tr>
-     <tr style="color:#082b2a;">
-      <th scope="row">15</th>
-      <td>CHUNDURI SUPRIYA</td>
-      <td>Assistant Professor</td>
-      <td>M.Tech</td>
-      <td>7565-180130-151342</td>
-      <td>11 Years</td>
-      <td><img src="images/faculty/22.jpg" alt="description here" height="120" width="100" /></td>
-    </tr>
+
      <tr style="color:#082b2a;">
       <th scope="row">16</th>
       <td>SILARAPU KALYANI</td>
@@ -283,8 +279,8 @@
       <td>M.Tech</td>
       <td>2034-190219-103548</td>
       <td>1 Year</td>
-      <td><img src="images/faculty/20.jpg" alt="description here" height="120" width="100" /></td>
-    </tr>
+      <td><img src="images/faculty/20.jpg" alt="description here" height="80" width="80" /></td>
+    </tr> -->
   </tbody>
 </table>
     </div>
@@ -300,18 +296,72 @@
       <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>-->
     </div>
      <div id="menu4" class="container tab-pane fade">
-    <!--  <h3>Menu 4</h3>
-      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>-->
+    <div class="row">
+    <h2 style="text-align:center; font-weight:bold; ;" class="bg-info ">EEE SYLLABUS</h2>
+    </div>
+    <h5>
+    JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD
+B.Tech. in ELECTRICAL AND ELECTRONICS ENGINEERING
+I YEAR COURSE STRUCTURE & SYLLABUS (R22 Regulations)
+    </h5>
+    <li style="font-size:20px;">
+    <a href="files/syllabus/R22B.Tech.EEEIandIIYearSyllabus2.pdf" target="_new" style="text-decoration:none; color:blue; font-size:20px;">EEE I And II Year Syllabus</a>
+    </li>
     </div>
      <div id="menu5" class="container tab-pane fade">
     <!--  <h3>Menu 5</h3>
       <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>-->
     </div>
      <div id="menu6" class="container tab-pane fade">
-     <!-- <h3>Menu 6</h3>
-      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>-->
+     <div>
+          <img src="images/EEE/EEE_Banner.webp" alt="">
+        </div>
+        <div class="row">
+     <div class="row">
+      <div class="col-sm-6" >
+      <img src="images/EEE/1.jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+      <div class="col-sm-6">
+      <img src="images/EEE/eee (2).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-sm-6">
+      <img src="images/EEE/eee (13).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+      <div class="col-sm-6">
+      <img src="images/EEE/eee (10).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-sm-6">
+      <img src="images/EEE/eee (11).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+      <div class="col-sm-6">
+      <img src="images/EEE/eee (12).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-sm-6">
+      <img src="images/EEE/eee (14).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+      <div class="col-sm-6">
+      <img src="images/EEE/eee (15).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-sm-6">
+      <img src="images/EEE/eee (17).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+      <div class="col-sm-6">
+      <img src="images/EEE/eee (18).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+      </div>
+     </div>
+     </div>
     </div>
   </div>
 </div>
 <br><br>
 <?php include 'footer.php';?>
+
+
