@@ -101,8 +101,8 @@ $highlighted = $url[0][2];
     <!-- START SITE -->
     <div id="wrapper" style=" overflow: hidden;">
         <div class="row " style="background-color:beige;padding-top:-15px;padding-bottom:-10px">
-                        <div class="col-sm-9"></div>
-                        <div class="col-sm-3">
+                        <div class="col-sm-7"></div>
+                        <div class="col-sm-5">
                             <div id="navbar" class="navbar-collapse collapse">
                                 <ul class="nav navbar-nav">
                                     <!-- <li class="dropdown has-submenu">
@@ -123,6 +123,7 @@ $highlighted = $url[0][2];
                                     <!-- <li class="dropdown has-submenu <?= ($highlighted == 'admission.php') ? 'active' : ''; ?>">
                                         <a href="admission.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:#07294d;font-size:15px">Admissions</span><span class="fa fa-angle-down"></span></a>
                                     </li> -->
+                                    <li class="dropdown <?= ($highlighted == 'admission.php') ? 'active' : ''; ?>"><a href="admission.php"><span style="color:#07294d;font-size:15px">Admissions</span></a></li>
                                     <li class="dropdown <?= ($highlighted == 'gallery.php') ? 'active' : ''; ?>"><a href="gallery.php"><span style="color:#07294d;font-size:15px">Gallery</span></a></li>
                                     
                                      <li class="dropdown has-submenu <?= ($highlighted == 'library.php' || $highlighted == 'hostel.php' || $highlighted == 'transport.php' || $highlighted == 'wifi.php' || $highlighted == 'key.php' || $highlighted == 'gallery.php') ? 'active' : ''; ?>">

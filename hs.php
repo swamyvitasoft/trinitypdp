@@ -330,147 +330,51 @@
       <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>-->
     </div>
     <div id="menu6" class="container tab-pane fade">
-      <h2 style="color: #003366;">Gallery</h2><br>
-      <div class="row" style="margin-left: -152px;">
-
-
-        <ul class="list-inline">
-
-          <div class="col-md-12">
-            <div class="col-md-2"></div>
-            <div class="col-md-3">
-              <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="0"><img
-                    class="img-thumbnail" src="images/hsFaculty/A.jpeg"><br>
-                </a></li>
-            </div>
-            <div class="col-md-3">
-              <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="1"><img
-                    class="img-thumbnail" src="images/hsFaculty/G.jpeg"><br>
-                </a></li>
-            </div>
-            <div class="col-md-3">
-              <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="2"><img
-                    class="img-thumbnail" src="images/hsFaculty/C.jpeg"><br>
-                </a></li>
-            </div>
-            <div class="col-md-1"></div>
-          </div>
-
-
-          <div class="col-md-12">
-            <div class="col-md-2"></div>
-            <div class="col-md-3">
-              <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="0"><img
-                    class="img-thumbnail" src="images/hsFaculty/D.jpeg"><br>
-                </a></li>
-            </div>
-            <div class="col-md-3">
-              <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="1"><img
-                    class="img-thumbnail" src="images/hsFaculty/E.jpeg"><br>
-                </a></li>
-            </div>
-            <div class="col-md-3">
-              <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="2"><img
-                    class="img-thumbnail" src="images/hsFaculty/F.jpeg"><br>
-                </a></li>
-            </div>
-            <div class="col-md-1"></div>
-          </div>
-
-
-          <div class="col-md-12">
-            <div class="col-md-2"></div>
-            <div class="col-md-3">
-              <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="0"><img
-                    class="img-thumbnail" src="images/hsFaculty/B.jpeg"><br>
-                </a></li>
-            </div>
-            <div class="col-md-3">
-              <!--  <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="1"><img class="img-thumbnail" src="images/csefaculty/h.jpeg"><br>
-</a></li>-->
-            </div>
-            <div class="col-md-3">
-              <!-- <li data-toggle="modal" data-target="#myModal"><a href="#myGallery" data-slide-to="2"><img class="img-thumbnail" src="images/csefaculty/i.jpeg" height: "197px";><br>
-</a></li>-->
-            </div>
-            <div class="col-md-1"></div>
-          </div>
-
-          <!--end of thumbnails-->
-
-        </ul>
+      <div class=row>
+        <img src="images/HS/hs.jpg" alt="" width="100%" height="250">
       </div>
-
-
-
-
-
-      <div class="modal fade" id="myModal">
-        <div class="modal-dialog">
-          <div class="modal-content" style="width:800px">
-
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" title="Close">
-                <span class="glyphicon glyphicon-remove"></span></button>
-            </div>
-            <div class="modal-body">
-
-              <!--CAROUSEL CODE GOES HERE-->
-
-              <div id="myGallery" class="carousel slide" data-interval="false">
-                <div class="carousel-inner">
-
-                  <div class="item active"> <img src="images/hsFaculty/A.jpeg" alt="item0" width="90%" height="80%">
-
-                  </div>
-                  <div class="item"> <img src="images/hsFaculty/G.jpeg" alt="item1">
-
-                  </div>
-                  <div class="item"> <img src="images/hsFaculty/C.jpeg" alt="item2">
-
-                  </div>
-                  <div class="item"> <img src="images/hsFaculty/D.jpeg" alt="item3">
-
-                  </div>
-                  <div class="item"> <img src="images/hsFaculty/E.jpeg" alt="item4">
-
-                  </div>
-                  <div class="item"> <img src="images/hsFaculty/F.jpeg" alt="item5">
-
-                  </div>
-                  <div class="item"> <img src="images/hsFaculty/B.jpeg" alt="item5">
-
-                  </div>
-                  <!--<div class="item"> <img src="images/csefaculty/h.jpeg" alt="item5">
-
-</div>
-<div class="item"> <img src="images/csefaculty/i.jpeg" alt="item5"  >
-
-</div>-->
-
-                  <!--end carousel-inner-->
-                </div>
-                <!--Begin Previous and Next buttons-->
-                <a class="left carousel-control" href="#myGallery" role="button" data-slide="prev"> <span
-                    class="glyphicon glyphicon-chevron-left"></span></a> <a class="right carousel-control"
-                  href="#myGallery" role="button" data-slide="next">
-                  <span class="glyphicon glyphicon-chevron-right"></span></a>
-                <!--end carousel-->
-              </div>
-              <!--end modal-body-->
-            </div>
-            <div class="modal-footer">
-
-              <button class="btn-sm close" type="button" data-dismiss="modal">Close</button>
-              <!--end modal-footer-->
-            </div>
-            <!--end modal-content-->
+      <div class="row">
+        <div class="row">
+          <div class="col-sm-6">
+            <img src="images/EEE/1.jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
           </div>
-          <!--end modal-dialoge-->
+          <div class="col-sm-6">
+            <img src="images/EEE/eee (2).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+          </div>
         </div>
-        <!--end myModal-->>
+        <div class="row">
+          <div class="col-sm-6">
+            <img src="images/EEE/eee (13).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+          </div>
+          <div class="col-sm-6">
+            <img src="images/EEE/eee (10).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6">
+            <img src="images/EEE/eee (11).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+          </div>
+          <div class="col-sm-6">
+            <img src="images/EEE/eee (12).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6">
+            <img src="images/EEE/eee (14).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+          </div>
+          <div class="col-sm-6">
+            <img src="images/EEE/eee (15).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6">
+            <img src="images/EEE/eee (17).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+          </div>
+          <div class="col-sm-6">
+            <img src="images/EEE/eee (18).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
+          </div>
+        </div>
       </div>
-
     </div>
 
   </div>

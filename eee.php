@@ -349,53 +349,7 @@
       <!--  <h3>Menu 5</h3>
       <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>-->
     </div>
-    <div id="menu6" class="container tab-pane fade">
-      <div>
-        <img src="images/EEE/EEE_Banner.webp" alt="">
-      </div>
-      <div class="row">
-        <div class="row">
-          <div class="col-sm-6">
-            <img src="images/EEE/1.jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-          <div class="col-sm-6">
-            <img src="images/EEE/eee (2).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-6">
-            <img src="images/EEE/eee (13).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-          <div class="col-sm-6">
-            <img src="images/EEE/eee (10).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-6">
-            <img src="images/EEE/eee (11).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-          <div class="col-sm-6">
-            <img src="images/EEE/eee (12).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-6">
-            <img src="images/EEE/eee (14).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-          <div class="col-sm-6">
-            <img src="images/EEE/eee (15).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-6">
-            <img src="images/EEE/eee (17).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-          <div class="col-sm-6">
-            <img src="images/EEE/eee (18).jpeg" alt="" width="100%" height="350" style="padding:10px 0px 10px 10px">
-          </div>
-        </div>
-      </div>
-    </div>
+   
   </div>
 </div>
 <br><br>
