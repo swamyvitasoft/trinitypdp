@@ -100,13 +100,13 @@ $highlighted = $url[0][2];
 <body>
     <!-- START SITE -->
     <div id="wrapper" style=" overflow: hidden;">
-        <div class="row " style="background-color: #07294d;padding-top:-15px;padding-bottom:-10px">
-                        <div class="col-sm-8"></div>
-                        <div class="col-sm-4">
+        <div class="row " style="background-color:beige;padding-top:-15px;padding-bottom:-10px">
+                        <div class="col-sm-9"></div>
+                        <div class="col-sm-3">
                             <div id="navbar" class="navbar-collapse collapse">
                                 <ul class="nav navbar-nav">
-                                    <li class="dropdown has-submenu">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:white;font-size:15px;padding-top:0px">Committees</span> <span class="fa fa-angle-down"></span></a>
+                                    <!-- <li class="dropdown has-submenu">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:#07294d;font-size:15px;padding-top:0px">Committees</span> <span class="fa fa-angle-down"></span></a>
                                         <ul class="dropdown-menu" style="line-height:2.5">
                                             <li><a href="osg.php">Online Student Grievance </a></li>
                                             <li><a href="osg.php">College Disciplinary </a></li>
@@ -119,23 +119,40 @@ $highlighted = $url[0][2];
                                             <li><a href="Grievance Redressal.php">MANDATORY DISCLOSURE</a></li>
                                             <li><a href="Grievance Redressal.php">Alumni</a></li>
                                         </ul>
-                                    </li>
-                                    <li class="dropdown has-submenu <?= ($highlighted == 'admission.php') ? 'active' : ''; ?>">
-                                        <a href="admission.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:white;font-size:15px">Admissions</span><span class="fa fa-angle-down"></span></a>
-                                    </li>
-                                    <li class="dropdown <?= ($highlighted == 'contact.php') ? 'active' : ''; ?>"><a href="contact.php"><span style="color:white;font-size:15px">Contact</span></a></li>
+                                    </li> -->
+                                    <!-- <li class="dropdown has-submenu <?= ($highlighted == 'admission.php') ? 'active' : ''; ?>">
+                                        <a href="admission.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span style="color:#07294d;font-size:15px">Admissions</span><span class="fa fa-angle-down"></span></a>
+                                    </li> -->
+                                    <li class="dropdown <?= ($highlighted == 'gallery.php') ? 'active' : ''; ?>"><a href="gallery.php"><span style="color:#07294d;font-size:15px">Gallery</span></a></li>
+                                    
+                                     <li class="dropdown has-submenu <?= ($highlighted == 'library.php' || $highlighted == 'hostel.php' || $highlighted == 'transport.php' || $highlighted == 'wifi.php' || $highlighted == 'key.php' || $highlighted == 'gallery.php') ? 'active' : ''; ?>">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" ><span style="color:#07294d;font-size:15px;">Facilities</span> <span class="fa fa-angle-down"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="library.php">Library</a></li>
+                                                <li><a href="hostel.php">Hostel</a></li>
+                                                <li><a href="transport.php">Transport</a></li>
+                                                <!-- <li><a href="wifi.php">Wi-Fi</a></li>--> 
+                                                <li><a href="key.php">Key-Facilities</a></li>
+                                                <li><a href="e-learn.php">E-learning and Internet</a></li>
+                                                <li><a href="sports.php">Sports </a></li>
+                                                <li><a href="cultural.php">Cultural</a></li>
+                                                <!-- <li><a href="gallery.php">Gallery </a></li> -->
+                                            </ul>
+                                        </li> 
+                                        <li class="dropdown <?= ($highlighted == 'contact.php') ? 'active' : ''; ?>"><a href="contact.php"><span style="color:#07294d;font-size:15px">Contact</span></a></li>
+                                        
                                 </ul>
                             </div>
                         </div>
         </div> <!--end .. row -->    
 
         <div class="header-style-2">
-            <div class="container-fluid">
+            <div class="container-fluid" >
                 <div class="row" >    
-                    <div class="col-md-12 col-sm-12 nopad">
+                    <div class="col-md-12 col-sm-12 nopad" >
                         <header class="header">
-                            <nav class="yamm navbar navbar-default">
-                                <div class="container-fluid">
+                            <nav class="yamm navbar navbar-default" style="background-color:white;">
+                                <div class="container-fluid" >
                                     <div class="navbar-header">
                                         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                                             <span class="sr-only">Toggle navigation</span>
@@ -143,10 +160,10 @@ $highlighted = $url[0][2];
                                             <span class="icon-bar"></span>
                                             <span class="icon-bar"></span>
                                         </button>
-                                        <a class="" href="index.php"><img src="images/logo1.png" class=" main-Img" alt="" style="width:200px"></a>
+                                        <a class="" href="index.php"><img src="images/logo1.png" class=" main-Img" alt="" style="width:300px;"></a>
                                     </div>
                                     <div id="navbar" class="navbar-collapse collapse">
-                                        <ul class="nav navbar-nav" style="padding-left:50px;">
+                                        <ul class="nav navbar-nav" style="padding-left:50px;padding-top:20px">
                                             <li class="dropdown has-submenu <?= ($highlighted == 'index.php') ? 'active' : ''; ?>">
                                                 <a href="index.php">Home</a>
                                             </li>
@@ -185,7 +202,7 @@ $highlighted = $url[0][2];
                                                 <li><a href="ece.php">ECE</a></li>
                                                 <li><a href="cse.php">CSE</a></li>
                                                 <li><a href="aiml.php">AIML</a></li>
-                                                <!-- <li><a href="hs.php">H & S</a></li> -->
+                                                <li><a href="hs.php">H & S</a></li>
                                                 <li><a href="mba.php">MBA</a></li>
                                                 <li><a href="#">Diploma in EEE</a></li>
                                                 <li><a href="#">Diploma in ECE</a></li>
@@ -200,20 +217,7 @@ $highlighted = $url[0][2];
                                                 <li><a href="tpo.php">Contact TPO</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown has-submenu <?= ($highlighted == 'library.php' || $highlighted == 'hostel.php' || $highlighted == 'transport.php' || $highlighted == 'wifi.php' || $highlighted == 'key.php' || $highlighted == 'gallery.php') ? 'active' : ''; ?>">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Facilities <span class="fa fa-angle-down"></span></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="library.php">Library</a></li>
-                                                <li><a href="hostel.php">Hostel</a></li>
-                                                <li><a href="transport.php">Transport</a></li>
-                                                <!-- <li><a href="wifi.php">Wi-Fi</a></li> -->
-                                                <li><a href="key.php">Key-Facilities</a></li>
-                                                <li><a href="#">E-learning and Internet</a></li>
-                                                <li><a href="#">Sports </a></li>
-                                                <li><a href="#">Cultural</a></li>
-                                                <li><a href="gallery.php">Gallery </a></li>
-                                            </ul>
-                                        </li>
+                                        
                                         <li class="dropdown has-submenu <?= ($highlighted == 'selected.php' || $highlighted == 'tpo.php') ? 'active' : ''; ?>">
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">NAAC <span class="fa fa-angle-down"></span></a>
                                             <ul class="dropdown-menu">

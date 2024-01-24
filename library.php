@@ -108,14 +108,14 @@
             </ul>
         </div>
         
-        <div class="col-md-12">
+        <!-- <div class="col-md-12">
             <h2 align="center">Links of International e-Journals</h2><hr></div>
             <div class="col-md-12">
                 <div class="col-md-4"><a href="https://jgateplus.com/home"><img src="images/trinity/j gate.jpg" class="img-responsive" style="height:130px"></a></div>
                 <div class="col-md-4"><a href="https://ieeexplore.ieee.org/Xplore/home.jsp " ><img src="images/trinity/IEEE.jpg" class="img-responsive" style="height:130px"></a> </div>
                 <div class="col-md-4"><a href="http://164.100.247.30/"><img src="images/trinity/delnet.jpg"class="img-responsive" style="height:75px"></a></div>
             </div>
-        </div>
+        </div> -->
         
         
         </div>
