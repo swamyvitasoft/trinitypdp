@@ -3,7 +3,6 @@
   <div class="eee" style="background-image: url('images/ECE/ECE_Banner.jpg'); background-size:cover; height:350px; ">
   </div>
 </div>
-
 <div class="container-fluid" style="box-shadow:-3px 5px 15px #000">
   <ul class="nav nav-tabs" role="tablist" width="90%" style="background-color: #f7f7f7;">
     <li class="nav-item" style="color: rgb(0, 0, 255);">
@@ -15,16 +14,14 @@
           Department</b></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu2"><b
-          style="font-size:16px;color:rgb(120, 120, 120)">Faculty</b></a>
+      <a class="nav-link" data-toggle="tab" href="#menu2"><b style="font-size:16px;color:rgb(120, 120, 120)">Faculty</b></a>
     </li>
     <!-- <li class="nav-item">
       <a class="nav-link" data-toggle="tab" href="#menu3"><b
           style="font-size:16px;color:rgb(120, 120, 120)">Infrastructure</b> </a>
     </li> -->
     <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu4"><b
-          style="font-size:16px;color:rgb(120, 120, 120)">Syllabus</b></a>
+      <a class="nav-link" data-toggle="tab" href="#menu4"><b style="font-size:16px;color:rgb(120, 120, 120)">Syllabus</b></a>
     </li>
     <!-- <li class="nav-item">
       <a class="nav-link" data-toggle="tab" href="#menu5"><b
@@ -34,8 +31,10 @@
       <a class="nav-link" data-toggle="tab" href="#menu6"><b style="font-size:16px;color:rgb(120, 120, 120)">Gallery
         </b> </a>
     </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu7"><b style="font-size:16px;color:rgb(80, 80, 80)">PEOs & PSOs</b></a>
+    </li>
   </ul>
-
   <!-- Tab panes -->
   <div class="tab-content">
     <div id="home" class=" tab-pane active" style="color:#082b2a;">
@@ -45,7 +44,6 @@
           <img class="lib-img-show" src="images/ECE/ece-about.jpg" style=" width: 100%;height:260px;">
         </div>
         <div class="col-md-8">
-
           <p style="text-indent: 50px; color:#212F3D;text-align:justify; ">The department of Electronics & Communication
             Engineering started right from the inception of the college in the year 2008. The primary objective of the
             department has been to impart quality education, training and research at the undergraduate in various areas
@@ -58,13 +56,8 @@
               society." </p>
           </div><br><br>
         </div><br>
-
       </div><br>
-
-
     </div>
-
-
     <div id="menu1" class="container tab-pane fade" style="color:#082b2a;">
       <h2 style="color: #003366;">Head of the Department</h2>
       <hr>
@@ -84,8 +77,6 @@
         </div>
       </div>
     </div>
-
-
     <div id="menu2" class="container tab-pane fade">
       <h2 style="color: #003366;">Faculty</h2><br>
       <div class="table-responsive">
@@ -102,7 +93,6 @@
             </tr>
           </thead>
           <tbody>
-
             <tr style="color:#082b2a;">
               <th scope="row">1</th>
               <td>GANESH MANI</td>
@@ -211,7 +201,6 @@
               <td>4 Years</td>
               <td><img src="images/eceFaculty/6.jpeg" alt="description here" height="120" width="100" /></td>
             </tr>
-
             <tr style="color:#082b2a;">
               <th scope="row">8</th>
               <td>SAGAR CHILUKA</td>
@@ -249,7 +238,6 @@
               <td>2 Years</td>
               <td><img src="images/eceFaculty/20.jpg" alt="description here" height="120" width="100" /></td>
             </tr>
-
            
             <tr style="color:#082b2a;">
               <th scope="row">16</th>
@@ -278,12 +266,10 @@
               <td>1 Years</td>
               <td><img src="images/eceFaculty/19.JPG" alt="description here" height="120" width="100" /></td>
             </tr> -->
-
           </tbody>
         </table>
       </div>
     </div>
-
     <div id="menu3" class="container tab-pane fade">
       <!-- <h3>Menu 3</h3>
       <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>-->
@@ -298,8 +284,7 @@
         I YEAR COURSE STRUCTURE & SYLLABUS (R22 Regulations)
       </h5>
       <li style="font-size:20px;">
-        <a href="files/syllabus/R22B.Tech.ECEIIIYearSyllabus.pdf" target="_new"
-          style="text-decoration:none; color:blue; font-size:20px;">ECE I And II Year Syllabus</a>
+        <a href="files/syllabus/R22B.Tech.ECEIIIYearSyllabus.pdf" target="_new" style="text-decoration:none; color:blue; font-size:20px;">ECE I And II Year Syllabus</a>
       </li>
     </div>
     <div id="menu5" class="container tab-pane fade">
@@ -352,6 +337,14 @@
           </div>
         </div>
       </div>
+    </div>
+    <div id="menu7" class="container tab-pane fade">
+      <div class="row">
+        <h2 style="text-align:center; font-weight:bold; ;" class="bg-info ">PEOs & PSOs of B.Tech (UG Program)</h2>
+      </div>
+      <li style="font-size:20px;">
+        <a href="files/peos_psos.docx" target="_new" style="text-decoration:none; color:blue; font-size:20px;">Click Here</a>
+      </li>
     </div>
   </div>
 </div>

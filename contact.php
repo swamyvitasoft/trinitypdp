@@ -28,9 +28,9 @@ include 'connect.php' ?>
                     <div style="padding: 10px;" class="newfont">
                         <address style="line-height: 2.528571;">
                             Trinity&nbsp;College&nbsp;of&nbsp;Engineering&nbsp;and&nbsp;Technology, <br>
-                            Karimnagar - Telangana - 505481,<br>
-                            <span class="fa fa-envelope " style="color:#3b2277"></span> trinity@gmail.com <br>
-                            <span class="fa fa-globe" style="color:#3b2277"></span> www.trinity.com
+                            Bandarikunta,Peddapalli - Telangana - 505172,<br>
+                            <span class="fa fa-envelope " style="color:#3b2277"></span> officetcek@gmail.com <br>
+                            <span class="fa fa-globe" style="color:#3b2277"></span> www.tcek.ac.in
                         </address>
                         <div>
                             <hr>

@@ -21,7 +21,7 @@
                 and bounds to become a major learning center with 24 institutions offering almost all Schools, Intermediate, Degree, School of Educations,
                 Engineering, Management and Pharmacy courses. </p>
             <h3 style="float: right;color:rgb(210, 32, 97);font-size:25px; "> <strong>
-                    Founder Chairman - Dasari Manohar Reddy <sub style="font-size:19px;color: rgb(25, 178, 178);"> (EX. MLA Peddapalli)</sub>
+                    Founder Chairman -Sri Dasari Manohar Reddy <sub style="font-size:19px;color: rgb(25, 178, 178);"> (EX. MLA Peddapalli)</sub>
                 </strong></h3>
         </div>
     </div>

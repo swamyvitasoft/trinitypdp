@@ -7,12 +7,10 @@
    <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item slides active">
-      <div class="slide-1">
-          <div class="overlay"><img src="images/hostel.jpg" alt="" class="img-responsive" style="width:100%;height:420px"></div>
-      </div>
+          <div class="overlay"><img src="images/hostel.jpg" alt="" class="img-responsive" style="width:100%;height:600px">
       <div class="hero">
             <hgroup>
-            <h2 class="text-center" >Hostel</h2> 
+            <h2 class="text-center" ></h2> 
               </hgroup>
       </div>
     </div>

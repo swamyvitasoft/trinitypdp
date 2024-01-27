@@ -3,28 +3,24 @@
   <div class="eee" style="background-image: url('images/CSE/cse.jpg'); background-size:cover; height:350px; ">
   </div>
 </div>
-
 <div class="container" style="box-shadow:-3px 5px 15px #000;">
   <ul class="nav nav-tabs" role="tablist" style="background-color: #f7f7f7;">
     <li class="nav-item" style="color: rgb(0, 0, 255);">
-      <a class="nav-link active" data-toggle="tab" href="#home"><b
-          style="font-size:16px;color:rgb(120, 120, 120);">About Department</b></a>
+      <a class="nav-link active" data-toggle="tab" href="#home"><b style="font-size:16px;color:rgb(120, 120, 120);">About Department</b></a>
     </li>
     <li class="nav-item">
       <a class="nav-link" data-toggle="tab" href="#menu1"><b style="font-size:16px;color:rgb(120, 120, 120)">Head of the
           Department</b></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu2"><b
-          style="font-size:16px;color:rgb(120, 120, 120)">Faculty</b></a>
+      <a class="nav-link" data-toggle="tab" href="#menu2"><b style="font-size:16px;color:rgb(120, 120, 120)">Faculty</b></a>
     </li>
     <!-- <li class="nav-item">
       <a class="nav-link" data-toggle="tab" href="#menu3"><b
           style="font-size:16px;color:rgb(120, 120, 120)">Infrastructure</b> </a>
     </li> -->
     <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu4"><b
-          style="font-size:16px;color:rgb(120, 120, 120)">Syllabus</b></a>
+      <a class="nav-link" data-toggle="tab" href="#menu4"><b style="font-size:16px;color:rgb(120, 120, 120)">Syllabus</b></a>
     </li>
     <!-- <li class="nav-item">
       <a class="nav-link" data-toggle="tab" href="#menu5"><b
@@ -34,11 +30,12 @@
       <a class="nav-link" data-toggle="tab" href="#menu6"><b style="font-size:16px;color:rgb(120, 120, 120)">Gallery
         </b> </a>
     </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu7"><b style="font-size:16px;color:rgb(80, 80, 80)">PEOs & PSOs</b></a>
+    </li>
   </ul>
-
   <!-- Tab panes -->
   <div class="tab-content">
-
     <div id="home" class="container tab-pane active" style="color:#082b2a;">
       <h2 style="color: #003366;">About Department</h2>
       <p style="text-indent: 50px;" align:"justify">The Department of Computer Science and Engineering at TCEK was
@@ -47,27 +44,18 @@
         degrees.
         The Department has state of the art infrastructure and computing equipment supported by high speed internet and
         wireless networks.</p>
-
       <p style="text-indent: 50px;" align:"justify">The Department of Computer Science and Engineering is renowned for
         cutting edge research and for imparting state of art education.
         The Department provides an outstanding research environment complemented by excellence in teaching.</p>
-
       <p style="text-indent: 50px;" align:"justify">Our faculty aims at delivering top class education blending their
         rich research experience with classroom teaching.
         It also promotes active industry-institute collaboration by identifying areas of interest and taking part in
         sponsored research projects and consultancy services.
         The Department has undertaken many research projects funded both by multinationals and government agencies.</p>
-
       <p style="text-indent: 50px;" align:"justify">The major areas of research include Image Processing, Real time
         operating Systems, Neural Networks, Data mining,
         Information retrieval and Web mining, Information Security, Networks, Operating Systems, Distributed Systems,
         Parallel processing and Human-Computer Interactions.</p>
-
-
-
-
-
-
       <h2 style="color: #003366;">Vision</h2><br>
       <p style="text-indent: 50px;" align:"justify">To become a regional leader in providing the high quality education
         in the field of
@@ -75,11 +63,7 @@
         with the curricula that imparts theoretical foundations and hands on experience of Computer Science and
         Engineering and also the foundations of social, ethical,
         and liberal education needed to make significant contributions to society.</p>
-
-
     </div>
-
-
     <div id="menu1" class="container tab-pane fade" style="color:#082b2a;">
       <h2 style="color: #003366;">Head of the Department</h2>
       <hr>
@@ -94,18 +78,12 @@
             worked as software developer in Broadcom India research Pvt. Limited at Bangalore. </p>
         </div>
         <div class="col-sm-4">
-          <img src="images/CSE/swathi.jpeg"  height="230" width="100%">
+          <img src="images/CSE/swathi.jpeg" height="230" width="100%">
         </div>
       </div>
-
     </div>
-
-
-
-
     <div id="menu2" class="container tab-pane fade">
       <h2 style="color: #003366;">Faculty</h2><br>
-
       <table class="table table-responsive">
         <thead class="thead-dark">
           <tr style="color:black;">
@@ -127,7 +105,6 @@
             <td>2717-150427-180153</td>
             <td>12 Years</td>
             <td><img src="images/CSE/swathi.jpeg" alt="description here" height="80" width="80" /></td>
-
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">2</th>
@@ -202,7 +179,6 @@
             <td>4 Years</td>
             <td><img src="images/csefaculty/6.jpeg" alt="description here" height="120" width="100" /></td>
           </tr>
-
          
           <tr style="color:#082b2a;">
             <th scope="row">9</th>
@@ -271,8 +247,6 @@
         </tbody>
       </table>
     </div>
-
-
     <div id="menu3" class="container tab-pane fade">
       <!--  <h3>Menu 3</h3>
       <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>-->
@@ -287,8 +261,7 @@
         I YEAR COURSE STRUCTURE & SYLLABUS (R22 Regulations)
       </h5>
       <li style="font-size:20px;">
-        <a href="files/syllabus/R22B.Tech.CSEIandIIYearSyllabus.pdf" target="_new"
-          style="text-decoration:none; color:blue; font-size:20px;">CSEI And II Year Syllabus</a>
+        <a href="files/syllabus/R22B.Tech.CSEIandIIYearSyllabus.pdf" target="_new" style="text-decoration:none; color:blue; font-size:20px;">CSEI And II Year Syllabus</a>
       </li>
     </div>
     <div id="menu5" class="container tab-pane fade">
@@ -342,9 +315,14 @@
         </div>
       </div>
     </div>
-
-
-
+    <div id="menu7" class="container tab-pane fade">
+      <div class="row">
+        <h2 style="text-align:center; font-weight:bold; ;" class="bg-info ">PEOs & PSOs of B.Tech (UG Program)</h2>
+      </div>
+      <li style="font-size:20px;">
+        <a href="files/peos_psos.docx" target="_new" style="text-decoration:none; color:blue; font-size:20px;">Click Here</a>
+      </li>
+    </div>
   </div>
 </div><br><br>
 <?php include 'footer.php'; ?>

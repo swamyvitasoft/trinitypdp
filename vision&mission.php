@@ -15,25 +15,34 @@
                 <ul style='color:#000000;'>
                     <li style="font-size:16px;">
                         <p style='color:#000000;;font-size:16px' align='justify'>
-                            Trinity has been established with a commitment to making higher education available to all those who are deprived of object-oriented modular education with an emphasis on practical knowledge keeping in view the emerging industrial needs, business opportunities, and research requirements globally in different areas of science, technology, and management.
+                            Trinity has been established with a commitment to making higher education available to all
+                            those who are deprived of object-oriented modular education with an emphasis on practical
+                            knowledge keeping in view the emerging industrial needs, business opportunities, and
+                            research requirements globally in different areas of science, technology, and management.
                         </p>
 
                     </li>
                     <li style="font-size:16px;">
                         <p style='color:#000000;;font-size:16px' align='justify'>
-                            Our mission is our direction to think and act. To provide an affordable high-quality education student centered teaching-learning processes to the professional aspirants of rural areas to impart skill-based and job oriented training on cutting-edge technologies and achieve 100% placements.
+                            Our mission is our direction to think and act. To provide an affordable high-quality
+                            education student centered teaching-learning processes to the professional aspirants of
+                            rural areas to impart skill-based and job oriented training on cutting-edge technologies and
+                            achieve 100% placements.
                         </p>
 
                     </li>
                     <li style="font-size:16px;">
                         <p style='color:#000000;;font-size:16px' align='justify'>
-                            To create a healthy and conducive atmosphere among the faculty, students both professionally and ethically and have an effective interaction with industry professional, alumni academicians of premier institutions.
+                            To create a healthy and conducive atmosphere among the faculty, students both professionally
+                            and ethically and have an effective interaction with industry professional, alumni
+                            academicians of premier institutions.
                         </p>
 
                     </li>
                     <li style="font-size:16px;">
                         <p style='color:#000000;;font-size:16px' align='justify'>
-                            To generate technically sound and knowledge Engineers to cater the needs of the nation. To promote research activities, among the students.
+                            To generate technically sound and knowledge Engineers to cater the needs of the nation. To
+                            promote research activities, among the students.
                         </p>
 
                     </li>
@@ -47,7 +56,10 @@
                     Vision
                 </h2>
                 <p style='color:#000000;;font-size:16px' align='justify'>
-                    Our institution vision is becoming a vibrant knowledge hub and a center of excellence in education. Generating cutting edge technology using research and innovation to make India a developed nation. Creating leaders in the field of science, technology and management by providing quality education. To be the fountain head in producing highly skilled, globally competent engineers.
+                    Our institution vision is becoming a vibrant knowledge hub and a center of excellence in education.
+                    Generating cutting edge technology using research and innovation to make India a developed nation.
+                    Creating leaders in the field of science, technology and management by providing quality education.
+                    To be the fountain head in producing highly skilled, globally competent engineers.
                 </p>
             </div>
             <div class='col-md-6' style="background-color:white;">
