@@ -167,21 +167,21 @@
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">3</th>
-            <td>ASHOK KUMAR GUDA</td>
-            <td>Assistant Professor</td>
-            <td>M.Tech</td>
-            <td>5286-150506-163956</td>
-            <td>10 Years</td>
-            <td><img src="images/EEE/ashok.jpeg" alt="description here" height="80" width="80" /></td>
-          </tr>
-          <tr style="color:#082b2a;">
-            <th scope="row">4</th>
             <td>SHIVA KUMAR MUNJAM</td>
             <td>Assistant Professor</td>
             <td>M.Tech</td>
             <td>7734-150412-151225</td>
             <td>16 Years</td>
             <td><img src="images/EEE/shivakumarM.jpeg" alt="description here" height="80" width="80" /></td>
+          </tr>
+          <tr style="color:#082b2a;">
+            <th scope="row">4</th>
+            <td>SANTHOSH BANDI</td>
+            <td>Assistant Professor</td>
+            <td>M.Tech</td>
+            <td>4224-150416-153422</td>
+            <td>16 Years</td>
+            <td><img src="images/EEE/santhoshB.jpeg" alt="description here" height="80" width="80" /></td>
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">5</th>
@@ -194,12 +194,12 @@
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">6</th>
-            <td>VELPULA SWARUPA</td>
+            <td>KOPPULA SRINIVAS</td>
             <td>Assistant Professor</td>
             <td>M.Tech</td>
-            <td>8793-170126-091552</td>
+            <td>0016-170119-101553</td>
             <td>3 Years</td>
-            <td><img src="images/EEE/swarupa.jpeg" alt="description here" height="80" width="80" /></td>
+            <td><img src="images/EEE/srinivasK.jpeg" alt="description here" height="80" width="80" /></td>
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">7</th>
@@ -212,21 +212,21 @@
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">8</th>
-            <td>KOPPULA SRINIVAS</td>
+            <td>VELPULA SWARUPA</td>
             <td>Assistant Professor</td>
             <td>M.Tech</td>
-            <td>0016-170119-101553</td>
+            <td>8793-170126-091552</td>
             <td>3 Years</td>
-            <td><img src="images/EEE/srinivasK.jpeg" alt="description here" height="80" width="80" /></td>
+            <td><img src="images/EEE/swarupa.jpeg" alt="description here" height="80" width="80" /></td>
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">9</th>
-            <td>SANTHOSH BANDI</td>
+            <td>ASHOK KUMAR GUDA</td>
             <td>Assistant Professor</td>
             <td>M.Tech</td>
-            <td>4224-150416-153422</td>
-            <td>16 Years</td>
-            <td><img src="images/EEE/santhoshB.jpeg" alt="description here" height="80" width="80" /></td>
+            <td>5286-150506-163956</td>
+            <td>10 Years</td>
+            <td><img src="images/EEE/ashok.jpeg" alt="description here" height="80" width="80" /></td>
           </tr>
           <!-- <tr style="color:#082b2a;">
       <th scope="row">8</th>
