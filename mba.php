@@ -65,7 +65,7 @@
     <div id="menu1" class="container tab-pane fade" style="color:#082b2a;">
       <h2 style="color: #003366;">Head of the Department</h2>
       <hr>
-      <img src="images/mbafaculty/1111.jpg" style="margin-left: 40%;" height="120" width="100">
+      <img src="images/MBA/arif.jpg" style="margin-left: 40%;" height="120" width="100">
       <p style="text-indent: 50px;" align:"justify"><b>Dr. ARIF ARAFAT,</b> Head, Department of MBA has a total
         experience of more than 17 years. Out of which, he also has an industry exposure in Customer and sales.
         Apart from that, he has comprehensive teaching experience of around 15 years, which also include training and
@@ -96,7 +96,7 @@
             <td>MBA; M.Com; NET; SET; Ph.D</td>
             <td>0506-150408-132239</td>
             <td>17 Years</td>
-            <td><img src="images/mbafaculty/1111.jpg" alt="description here" height="120" width="100" /></td>
+            <td><img src="images/MBA/arif.jpg" alt="description here" height="120" width="100" /></td>
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">2</th>
@@ -105,9 +105,27 @@
             <td>MBA; Ph.D</td>
             <td>0506-150408-132239</td>
             <td>12 Years</td>
-            <td><img src="images/mbafaculty/2222.jpg" alt="description here" height="120" width="100" /></td>
+            <td><img src="images/MBA/kausalya.jpg" alt="description here" height="120" width="100" /></td>
           </tr>
           <tr style="color:#082b2a;">
+            <th scope="row">3</th>
+            <td>RAMMOHAN REDDY RAJIDI</td>
+            <td>Assistant Professor</td>
+            <td>MBA; NET; (Ph.D)</td>
+            <td>3696-150422-172652</td>
+            <td>10 Years</td>
+            <td><img src="images/MBA/mohan.jpg" alt="description here" height="120" width="100" /></td>
+          </tr>
+          <tr style="color:#082b2a;">
+            <th scope="row">4</th>
+            <td>PARSHA RAMESH</td>
+            <td>Assistant Professor</td>
+            <td>MBA</td>
+            <td>9898-170915-153011</td>
+            <td>10 Years</td>
+            <td><img src="images/MBA/ramesh.jpg" alt="description here" height="120" width="100" /></td>
+          </tr>
+          <!-- <tr style="color:#082b2a;">
             <th scope="row">3</th>
             <td>VAMSI KRISHNA BARIBADDALA</td>
             <td>Assistant Professor</td>
@@ -115,24 +133,6 @@
             <td>52150405-120550</td>
             <td>11 Years </td>
             <td><img src="images/mbafaculty/3.jpeg" alt="description here" height="120" width="100" /></td>
-          </tr>
-          <tr style="color:#082b2a;">
-            <th scope="row">4</th>
-            <td>RAMMOHAN REDDY RAJIDI</td>
-            <td>Assistant Professor</td>
-            <td>MBA; NET; (Ph.D)</td>
-            <td>3696-150422-172652</td>
-            <td>10 Years</td>
-            <td><img src="images/mbafaculty/4.jpeg" alt="description here" height="120" width="100" /></td>
-          </tr>
-          <tr style="color:#082b2a;">
-            <th scope="row">5</th>
-            <td>PARSHA RAMESH</td>
-            <td>Assistant Professor</td>
-            <td>MBA</td>
-            <td>9898-170915-153011</td>
-            <td>10 Years</td>
-            <td><img src="images/mbafaculty/3333.jpg" alt="description here" height="120" width="100" /></td>
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">6</th>
@@ -214,7 +214,7 @@
             <td>4462-170213-160019</td>
             <td>0 Years</td>
             <td><img src="images/mbafaculty/16.jpg" alt="description here" height="120" width="100" /></td>
-          </tr>
+          </tr> -->
         </tbody>
       </table>
     </div>
