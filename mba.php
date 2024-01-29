@@ -125,6 +125,15 @@
             <td>10 Years</td>
             <td><img src="images/MBA/ramesh.jpg" alt="description here" height="120" width="100" /></td>
           </tr>
+          <tr style="color:#082b2a;">
+            <th scope="row">5</th>
+            <td>VENKATESWARLU NAGULA</td>
+            <td>Assistant Professor</td>
+            <td>MBA</td>
+            <td>2590-150415-181625</td>
+            <td>0 Years</td>
+            <td><img src="images/MBA/venkatesh.jpg" alt="description here" height="120" width="100" /></td>
+          </tr>
           <!-- <tr style="color:#082b2a;">
             <th scope="row">3</th>
             <td>VAMSI KRISHNA BARIBADDALA</td>
@@ -151,15 +160,6 @@
             <td>5495-190219-181935</td>
             <td>0 Years</td>
             <td><img src="images/mbafaculty/12.jpg" alt="description here" height="120" width="100" /></td>
-          </tr>
-          <tr style="color:#082b2a;">
-            <th scope="row">8</th>
-            <td>VENKATESWARLU NAGULA</td>
-            <td>Assistant Professor</td>
-            <td>MBA</td>
-            <td>2590-150415-181625</td>
-            <td>0 Years</td>
-            <td><img src="images/mbafaculty/8.jpg" alt="description here" height="120" width="100" /></td>
           </tr>
           <tr style="color:#082b2a;">
             <th scope="row">9</th>
